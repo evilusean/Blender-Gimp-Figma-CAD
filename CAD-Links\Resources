@@ -1,0 +1,37 @@
+CAD Programs:
+
+Blender is great for 3d printing, especially when you like to do more artistic stuff. I also use it for "CAD", but there are some limitations due to it's non-standard modeling approach 
+(which on the other hand can be a joy to work with and is very mesh-based; which is a good thing for 3d-printing). Huge, expanding projects can become a mess over time and CAD-like precision sometimes is a bit quirky to maintain.
+
+If you're looking for functional prints, there are softwares much better for it since they work as CAD, and thus understand the constraints of a physical object, which blender does not natively. 
+I personally use Fusion360 (free, too) a lot more for 3d printing
+
+I use Blender, export from that to .stl, then import the .stl into Prusaslicer.
+It works well, but there are two problems I've noticed.
+One. Export will get EVERYTHING. Including geometry you've hidden. This makes booleans an issue as things you've modeled to cut OUT of the model are still there. So you have to apply the booleans,
+then erase everything you don't want before you export.
+Two. Blender is ill-suited to CAD-type applications. You CAN turn on edge lengths and corner angles, but it's a mess. I still use it, for CAD-type applications, because I was already exposed to Blender
+before I got into 3D printing.
+
+Running on Linux does limit you some, but you still have a number of options open. Blender is a good polygon modeler, but as others have stated, a poly modeler and a parametric CAD app are two different things. 
+Not that people haven't made really great looking things in poly apps, but the goal of a poly app is to make something that "looks" right, as opposed to having it be dimensionally accurate.
+
+For native (installable) parametric CAD apps, you have:
+
+FreeeCAD - this one you know about. Very capable, but can be a little picky and unforgiving at first. Prepare to rage quit at least once or twice.
+
+SolveSpace - it's a nice program for what it does, but it is kind of limited (no fillets/chamfers or lofting, for example) so, if you run into the limitations, you end up needing to jump to another app anyway.
+
+BricsCAD Shape - seems capable, but feels geared toward architectural design (things like default scale of projects, etc.)
+
+If you have a persistent internet connection and don't mind using web apps (web browser based / cloud storage) you have:
+
+TinkerCAD - very simplistic, geared toward kids, but can be useful.
+
+SketchUp Personal - again, you can probably get something usable out of it, as I've downloaded parts that were designed in it, but it's geared toward architectural design and only for non-commercial use.
+
+OnShape - very capable free tier of a pro application, but the free version can only be used non-commercially, and all your designs are viewable/forkable by any other user of the application.
+
+Being from a software background, you may also be interested in the programmatic CAD apps like OpenSCAD or CadQuery - these work by defining your models in a declarative language and viewing the results. 
+Not something most people are after, but may fit your use case.
+
