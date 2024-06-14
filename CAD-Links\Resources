@@ -35,3 +35,38 @@ OnShape - very capable free tier of a pro application, but the free version can 
 Being from a software background, you may also be interested in the programmatic CAD apps like OpenSCAD or CadQuery - these work by defining your models in a declarative language and viewing the results. 
 Not something most people are after, but may fit your use case.
 
+
+Architects Software:================================================================================================================================================================================================================
+Basic Software
+AutoCAD: industry-standard 2D drafting software in most parts of the world. Many are (or trying to) replace this with BIM software, but this is not happening anytime soon in many places, especially in the developing world.
+SketchUp: industry-standard simple 3D modeller. Easy to pickup, intuitive in a childish sort of way. Very extensible, excellent compatibility with the renderers and bigger modellers. Warehouse is very useful.
+  Has some issues with curved geometry, but nothing too restrictive, and definitely here to stay.
+Photoshop: You know this one. While best used along with Illustrator and Indesign, many get by with Ps alone.
+3D:
+Rhinoceros: Sort of a SketchUp alternative, but much more powerful out-of-the-box. Excellent support for curved geometry. More logically built than SU, I'd say.
+  Very popular among some groups, but not as popular as SketchUp. Grasshopper, the parametric design plugin, is a major feature of Rhino.
+3DS Max / Maya / Blender / Cinema 4D / Zbrush: These are advanced 3D software which are industry-standard in other industry such as Vfx and Gaming. 
+  They are used for high quality archviz, and you probably won't need them unless archiviz is really important to you or you want keep options open for these other industries.
+BIM:
+The future. Or not, depending on where you live. But certainly a very desirable skill, since using it tends to be more complicated than say AutoCAD. There are two key players here: 
+  Revit and ArchiCAD. Revit is from Autodesk, the giant behind AutoCAD, and is industry-standard in the US and Asia, but does not support macOS. ArchiCAD is ofted considered more architect friendly, 
+  but most of its market is in Europe. There's also VectorWorks, but if you haven't already heard of it, it's probably not for you.
+Renderers:
+Vray, Maxwell, Corona, Cycles, etc.: Raytracing renders. Can produce stunning photorealistic renders, but take more preparation as well as rendering time, along with considerable expertise. Most of the work with most 3D software
+Enscape, Lumion, Twinmotion, Evee, etc.: Real-time renderers, a fairly recent development. Render quickly, are easier to set up, and many are moving to these from traditional renderers. 
+  These also usually offer better support for videos and AR/VR.
+Topography:
+This is the workflow I use mostly,
+https://community.carbide3d.com/t/terrain-relief-models-unabridged/14713
+However I have also used this for Hawaii
+http://jthatch.com/Terrain2STL/
+And finally this is equally good.
+https://community.carbide3d.com/t/easy-or-at-least-straightforward-terrain-relief-models/12454
+Finally if you really want to get into the nitty gritty
+https://edutechwiki.unige.ch/en/3D_printing_of_digital_elevation_models
+This explains the process of geographical data to model in great detail.
+List of resources at:
+https://wiki.shapeoko.com/index.php/Online_resources#Geography
+The Autodesk AEC Collection
+Maptitude
+AutoCAD, Microstation , REVIT, Google Earth, LandXML, Civil3d, MX, ArcGIS, 3DStudio, TopoDOT, TerraSolid
