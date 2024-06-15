@@ -10,9 +10,20 @@ Step 1) Delete the Default Cube - Replace with a torus - Top Menus -> 'Add' OR
 'SHIFT + A' To get to the add menu -> Mesh -> 
   Mesh Primitives = Euclidean Geometry / Basic Shapes - Monkee
 'Middle Mouse Click In + Drag' = Enables Orbit = Allows you to rotate around the 3D viewport 
-  If no mouse there is a grey circle with X,Y,Z that you can use to orbit in the top right corner of the 3D Viewport - Left Click+Drag on that to orbit without a mouse Or Preference 'Emulate 3 button mouse' Option = 'Alt + Left Click Drag'
+  If no mouse there is a grey circle with X,Y,Z that you can use to orbit in the top right corner of the 3D Viewport - Left Click+Drag on that to orbit without a mouse 
+    Or Preference 'Emulate 3 button mouse' Option = 'Alt + Left Click Drag'
 'Middle Mouse Scroll Up/Down' = Scroll In/Out Zoom + 'Ctrl + MiddleMouse Click + Move Up/down' = Smooth Zoom In/Out - Top Right 3D Viewport 'Magnifying Glass' Left Click Drag Left/Right = Zoom In / Out -  
-
+ViewPort Shading = The light gray shading you see on the model is called 'ViewPort Shading', and it's a lightweight optimized way to view the scene as your building it
+Rendering = to make it pretty, switch in to rendering mode = Top Right Hand Corner -> 4 little circles -> Click 'Render View Mode'
+  you will now have directional lighting, and shadows will be cast 
+Pan = The 'Focus' is on the monkee, you can pan to something else in 2 different ways:
+  1) 'Shift + Middle Mouse Click + Drag' = Will allow you to move around the screen and change your view
+  2) Top Right Hand corner 'Hand' Tool to move around
+Move an Object = To move an object(model/light/camera) - you can do it in 2 different ways:
+  1) Tap 'G' Hotkey = G for 'Grab' will allow you to move objects - To Cancel press 'Esc' or 'Right Click' - To Confirm = 'Left Click' -
+    Controlled Move = After 'Tap G', 'Hold X Key' 'Hold Y Key' 'Hold Z Key' Will allow you to move on corresponding axis - 'Tap G + Press Mid Mouse' will bring up an axis component that will snap to mouse cursor + axis
+  2) Left Hand Corner of 3D viewport, floating menu, 'Move Tool' -> Click on 'Gizmo Axis' to move on X,Y,Z Coords, or click on 'Gizmo White Circle' to free move
+'Industry Compatible KeyBindings' = 'Preferences' -> 'KeyMap' = Will allow you to change keybindings to another program you are familiar with
 
 
 
