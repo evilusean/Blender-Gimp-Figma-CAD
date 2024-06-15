@@ -1,6 +1,6 @@
 Start:15June2024</br>
 End:</br>
-[Tutorial:https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) </br>
+[Tutorial: </br> https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) </br>
 I will give my DoNut a girls name, because this is the only hole I am going to get.</br>
 1. This is my Donut. There are many like it, but this one is mine.</br>
 2. My Donut is my best friend. It is my life. I must master it as I must master my life.</br>
