@@ -41,8 +41,10 @@ Move an Object = To move an object(model/light/camera) - you can do it in 2 diff
   'R + X' Rotates on X Axis - 'R + Y' = Rotates on Y Axis - 'R + Z' = Rotates on Z Axis
 
 Part 2 = Basic Modeling = https://www.youtube.com/watch?v=tBpnKTAc5Eo&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=2&ab_channel=BlenderGuru ===================================================================================
-
-
+'Shit + A' -> Create Torus -> Directly after creating a new object, in the bottom left corner of the 3D viewport there will be a tab - click on it - You will now get to select 'Options' for your newly created object
+'F9' = Options = You can alter major parts of your object, you can change size, resolution, 
+The higher your resolution, it just means the more polys/faces you will have on your object - it doesn't actually make it higher res - like the numbers on scopes - doesn't make it go faster - range - higher res = harder to render
+  It is easier to add resolution than it is to take it away (inverse of photos = You can always go down in res, never up) - try to have as few polys as you can when starting 
 
 
 
