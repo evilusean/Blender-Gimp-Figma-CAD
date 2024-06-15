@@ -1,3 +1,23 @@
 Start: 15June2024
 End:
-First, need to finish my main ThreeJS Course meal, before desert. 
+First, need to finish my main ThreeJS Course meal, before dessert. I'm doing the 4th version of the tutorial - released 4 months ago on youtube - so it won't be outdated - 2016 / 2019 / 2021 / 2023
+Part 1 = https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=1&ab_channel=BlenderGuru =============================================================================================================
+Open Source(based) 3D software, that can be used to make anything 3D - animations / visualizeASeans / FX / Game Assets / etc
+80/20 = only 20% of blenders features you use 80% of the time - lot's of buttons/tools(that's a good thing) - easy to get overwhelmed 
+3D Viewport = your main view, how you can interact with the models, where you spend >90% of your time, initially you can see 3 objects, when you click on it, you can see it's selected because it highlights in orange
+  Camera / Cube / Lamp(love) 
+Step 1) Delete the Default Cube - Replace with a torus - Top Menus -> 'Add' OR 
+'SHIFT + A' To get to the add menu -> Mesh -> 
+  Mesh Primitives = Euclidean Geometry / Basic Shapes - Monkee
+'Middle Mouse Click In + Drag' = Enables Orbit = Allows you to rotate around the 3D viewport 
+  If no mouse there is a grey circle with X,Y,Z that you can use to orbit in the top right corner of the 3D Viewport - Left Click+Drag on that to orbit without a mouse Or Preference 'Emulate 3 button mouse' Option = 'Alt + Left Click Drag'
+'Middle Mouse Scroll Up/Down' = Scroll In/Out Zoom + 'Ctrl + MiddleMouse Click + Move Up/down' = Smooth Zoom In/Out - Top Right 3D Viewport 'Magnifying Glass' Left Click Drag Left/Right = Zoom In / Out -  
+
+
+
+
+
+
+
+
+
