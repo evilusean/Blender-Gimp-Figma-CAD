@@ -20,6 +20,8 @@ For native (installable) parametric CAD apps, you have:
 
 FreeeCAD - this one you know about. Very capable, but can be a little picky and unforgiving at first. Prepare to rage quit at least once or twice.
 
+LibreCAD - Free, works on linux
+
 SolveSpace - it's a nice program for what it does, but it is kind of limited (no fillets/chamfers or lofting, for example) so, if you run into the limitations, you end up needing to jump to another app anyway.
 
 BricsCAD Shape - seems capable, but feels geared toward architectural design (things like default scale of projects, etc.)
