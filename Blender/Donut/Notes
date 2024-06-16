@@ -51,12 +51,16 @@ Shade Flat Mode =  Right Click on empty space in 3D viewport -> Select 'Shade Fl
 Modifiers = Far Left Menu of 'Properties' -> click on the 'Wrench' -> 'Add Modifier' -> Many Options -> 'Generate' -> 'Subdivision Surface'
   Subdivision Surface = 'Ctrl + 1' = Will smooth out the currently selected object - 'Levels Viewport' Option = As you increase this (1level = x4 Face) it will increase the resolution of the object to the mesh, adds more detail/faces
   'Levels Viewport' vs 'Render' Option = You generally want to keep the viewport levels low, and increase them for the render, for speed/performance, the viewport is for practice, the render is the pretty version
-Tut - Subdivision Surface Values = Levels Viewport = 1 / Render = 1
-
-
-
-
-
+Tut - Subdivision Surface Values = Levels Viewport = 1 / Render = 1 / Smooth Shading Enabled
+The procedurally generated donut is too good, to look real (respect) - This is a problem, because things that are too perfect just look fake, so we need to spend time making things look misshapen - ImPerfectSeans - Adding VariaSeans
+  You can make it look more lumpy by changing the mesh itself
+'Object Mode' / 'Edit Mode' / 'Sculpt Mode' / 'Vertex Paint' / 'Weight Paint' / 'Texture Paint' = Top Left hand corner, click to change modes - Options will change based on which object you have selected(Lamp vs Camera Vs Object)
+'Edit Mode' = Will add a lattice structure(Vertices) over your object 
+  Vertex = Singular
+  Edge = 2 Vertices Connected by a line
+  Face = 4 connected by lines
+  Tap 'G' = Will allow you to move Vertices - 'Left Click' = Confirm Position - Will Change the shape of the Mesh 
+  'Tab' = Will remove the lattice visibility(or bring it back) Switch between 'Object Mode' and 'Edit Mode'
 
 
 
