@@ -75,3 +75,12 @@ AutoCAD, Microstation , REVIT, Google Earth, LandXML, Civil3d, MX, ArcGIS, 3DStu
 Blender GIS = Google Maps + Blender for Topographical Map:
 https://www.youtube.com/watch?v=Mj7Z1P2hUWk&ab_channel=CGGeek
 https://github.com/domlysz/BlenderGIS
+
+Electronics Circuit Schematics:=========================================================================================================================================================================================================
+In LaTeX there is a package called CircuiTikZ - Best Looking 
+KiCad - pro designs with KiCAD under Linux - You can make 3D renders of the final pcb with components too. And it has SPICE simulation. Gerber viewer.
+SchemDraw
+LTSPICE
+InkScape
+Eagle - Free Version
+draw.io
