@@ -60,11 +60,13 @@ The procedurally generated donut is too good, to look real (respect) - This is a
   Edge = 2 Vertices Connected by a line
   Face = 4 connected by lines
   Tap 'G' = Will allow you to move Vertices - 'Left Click' = Confirm Position - Will Change the shape of the Mesh 
-  'Tab' = Will remove the lattice visibility(or bring it back) Switch between 'Object Mode' and 'Edit Mode'
-
-
-
-
+  'Tab' =  Switch between 'Object Mode' and 'Edit Mode' - Will remove the lattice visibility(or bring it back)
+'Proportional Editing' = Top Middle(Right Hand Corner) of Viewport in the Toolbar, If you want to move multiple Vertices at once, enable this, increasing/decreasing each vertices is tedious AF
+  Tap 'G' = Will now move multiple vertices at once, allowing you to shape the model MUCH easier
+  'Circle of Influence' = 'Scroll up/down' or 'Pg Up/Pg Down' to increase or decrease, Change the size of the ring to change the AEffected Zone, Will only aeffect what is in the ring
+'Edge Select' = Hold 'Alt' + Click on an Edge(Not Vertice-The line part) = It will select all the vertices on that row
+  'S' = Scale = To change size
+'Save As' = Blender saves files as '.blend' extension - 1 file
 
 
 
