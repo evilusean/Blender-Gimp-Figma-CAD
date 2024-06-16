@@ -45,7 +45,13 @@ Part 2 = Basic Modeling = https://www.youtube.com/watch?v=tBpnKTAc5Eo&list=PLjEa
 'F9' = Options = You can alter major parts of your object, you can change size, resolution, 
 The higher your resolution, it just means the more polys/faces you will have on your object - it doesn't actually make it higher res - like the numbers on scopes - doesn't make it go faster - range - higher res = harder to render
   It is easier to add resolution than it is to take it away (inverse of photos = You can always go down in res, never up) - try to have as few polys as you can when starting 
-
+Tut - Initial Donut 'Stats' = Major Segments = 32 / Minor Segments = 12 / Major Radius = 0.39m / Minor Rad = 0.25m - Click off and menu is gone 'F9' to bring it back
+Smooth Shading = Right Click on empty space in 3D viewport -> Select 'Shade Smooth' = To increase resolution, make object look less jagged, averages out faces, tells renderer it's a high poly when it isn't - won't add to render time
+Shade Flat Mode =  Right Click on empty space in 3D viewport -> Select 'Shade Flat' = Opposite of Smooth shading - Will show polygons clearly
+Modifiers = Far Left Menu of 'Properties' -> click on the 'Wrench' -> 'Add Modifier' -> Many Options -> 'Generate' -> 'Subdivision Surface'
+  Subdivision Surface = 'Ctrl + 1' = Will smooth out the currently selected object - 'Levels Viewport' Option = As you increase this (1level = x4 Face) it will increase the resolution of the object to the mesh, adds more detail/faces
+  'Levels Viewport' vs 'Render' Option = You generally want to keep the viewport levels low, and increase them for the render, for speed/performance, the viewport is for practice, the render is the pretty version
+Tut - Subdivision Surface Values = Levels Viewport = 1 / Render = 1
 
 
 
