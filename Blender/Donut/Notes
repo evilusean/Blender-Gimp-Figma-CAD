@@ -71,9 +71,11 @@ The procedurally generated donut is too good, to look real (respect) - This is a
 Part 3 = Modelling the Icing ============================================================================================================================================================================================================
 Blender 4.0 had a change that makes it more realistic by default, new rendering tech - genie, luma labs = 3D text to image
 'Shift + A' = Add an object
-'Shift + D' = Duplicate Object, Or top dropdown menu 'object' -> duplicate objects 
-
-
+'Shift + D' = Duplicate Object, Or top dropdown menu 'object' -> duplicate objects / 'Esc' OR 'Right Click' = Cancel / 
+  'F2' + Selected Object = 'rename' Don't(do nut-heh) forget to name your objects after duping, or you can get confused easily - double click object in outliner and rename
+'Toggle X Ray' = Top Left of Viewport Menu = Allows you to see through a mesh, and select an entire part of donut (click and drag select vertices will not work through a mesh)
+'Solidifier Modifier' = Properties -> Modifiers(wrench) -> Add Modifier -> Generate -> Solidify 
+  Tut - Change solidify modifier offset = 1.0
 
 
 
