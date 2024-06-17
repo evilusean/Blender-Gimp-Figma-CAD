@@ -82,7 +82,7 @@ Blender 4.0 had a change that makes it more realistic by default, new rendering 
   'Face Project' Option in the Snap Dropdown = Will snap all surrounding vertices to the object, and it will no longer clip through the donut
 If you get clipping issues, add more geometry, bring more vertexes to go over your object, so it can cover over more parts of the surface of another object, to do this use the 'Subdivision Surface Modifier'
 'Subdivision Surface Modifier' Next to modifier Name -> Dropdown arrow -> Click 'Apply' = Will add more geometry to work with 
-Tut - Had to Restart From Scratch - Tried to make a 'sad donut' and it had messed up geometry - saved all the inputs to get back to this stage - 
+Tut - Had to Restart From Scratch - Tried to make a 'sad donut' and it had messed up geometry - saved all the inputs to get back to this stage - 'Ctrl + F' + 'Tut' = How to get back to the tutorial values, saved thankfully
 
 
 
