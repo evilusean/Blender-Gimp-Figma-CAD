@@ -69,6 +69,10 @@ The procedurally generated donut is too good, to look real (respect) - This is a
 'Save As' = Blender saves files as '.blend' extension - 1 file
 
 Part 3 = Modelling the Icing ============================================================================================================================================================================================================
+Blender 4.0 had a change that makes it more realistic by default, new rendering tech - genie, luma labs = 3D text to image
+'Shift + A' = Add an object
+'Shift + D' = Duplicate Object, Or top dropdown menu 'object' -> duplicate objects 
+
 
 
 
