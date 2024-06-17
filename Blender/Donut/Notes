@@ -75,11 +75,13 @@ Blender 4.0 had a change that makes it more realistic by default, new rendering 
   'F2' + Selected Object = 'rename' Don't(do nut-heh) forget to name your objects after duping, or you can get confused easily - double click object in outliner and rename
 'Toggle X Ray' = Top Left of Viewport Menu = Allows you to see through a mesh, and select an entire part of donut (click and drag select vertices will not work through a mesh)
 'Solidifier Modifier' = Properties -> Modifiers(wrench) -> Add Modifier -> Generate -> Solidify 
-  Tut - Change solidify modifier offset = 1.0
-
-
-
-
+  Tut - Change solidify modifier offset = 1.0 / Thickness = 0.025 
+  When you are trying to check the vertices in edit mode, the modifier will block out the vertices, fix that by deselecting 'edit mode boxes' below
+'Modifier Boxes' = In the top part of each unique modifier by the name =  When enabled allow you to see it in coressponding mode, when deselected, will allow it to be hidden
+'Snap' = Top Middle of Viewport (In the dropdown menu, Make sure to select off increment, to 'face') = In Edit mode, the object vertice you are editing will snap to the nearest face - only the individual vertex, 
+  'Face Project' Option in the Snap Dropdown = Will snap all surrounding vertices to the object, and it will no longer clip through the donut
+If you get clipping issues, add more geometry, bring more vertexes to go over your object, so it can cover over more parts of the surface of another object, to do this use the 'Subdivision Surface Modifier'
+'Subdivision Surface Modifier' Next to modifier Name -> Dropdown arrow -> Click 'Apply' = Will add more geometry to work with 
 
 
 
