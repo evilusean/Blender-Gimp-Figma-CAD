@@ -101,7 +101,7 @@ Next we are adding some 'Drip'(not zoomerspeak - literal) - Instead of stretchin
 Part 4 = Sculpting ======================================================================================================================================================================================================================
 'Shrink Wrap Modifier' = Add Modifier -> 'Deform' -> 'ShrinkWrap' = Needs to know 'Target' use 'EyeDropper' = Position Matters, Needs to be on top of 'Solidify' ->
   Will wrap an object to another object, will be subtle changes, points where the meshes weren't directly connected, it will connect them
-  Tut -  After you have fixed the objects, just click 'Apply'(Ctrl + A) and it will Apply the changes and remove it from the stack
+  Tut -  After you have fixed the objects, just click 'Apply'(Ctrl + A) and it will Apply the changes and remove it from the 'Modifiers' stack
 
 
 
