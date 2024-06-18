@@ -90,10 +90,13 @@ If the circle of influence is too large while changing a vertice it will suck in
 'Ctrl + "+"' = Enables the Select More Tool = Will expand the vertices row by row / 'Ctrl + "-"' = Will decrease the Vertices rows 1 by 1 / Dropdown Menu Top of Viewport 'Select' -> 'Select More/Less'
 'H' With Vertices Selected = 'H'ide, will hide the selected vertices / 'Alt + H' = UnHides the hidden vertices / DropDown Menu Top of Vieport 'Mesh' -> 'Show/Hide' -> 'Reveal Hidden' / 'Hide Selected' / 'Hide Unselected'
 Big / Medium / Small Details = Recipe for 'Good Design'
-
-
-
-
+'Subdivision Surface' = Modifier Stack -> 'Add Modifier' -> 'Generate' -> 'Subdivision Surface' = To fix 90 degree edges when they shouldn't be there add another 'Subdivision Surface' 
+  Tut - Order Does matter - Solidifer at top, Subdivision after it - You want the extrusion to happen first, and THEN round that edge, 
+** FOR MODIFIERS ** Blender Works top to bottom, ORDER DOES MATTER **
+To make the icing less jagged we can change the 'Edge Data' option in the 'solidifier modifier' = Will tell blender before you do the solidify step, add a crease on the inner part
+  Tut - change the 'Edge Data' option in the 'solidifier modifier' = Change the 'Crease Inner' to '1.0'
+Next we are adding some 'Drip'(not zoomerspeak - literal) - Instead of stretching out the vertices, you need to give it more information by 'Extruding'
+'Extrude' = Select Vertices while holding down 'Shift', After - Hold 'E' and Pull the Selection Downwards(or whatever direction) to Extrude it = It will add a new section/face, like a tail/trail to our icing
 
 
 
