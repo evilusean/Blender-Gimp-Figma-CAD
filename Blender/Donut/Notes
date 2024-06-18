@@ -108,7 +108,11 @@ After we applied the 'Solidify Modifier' it took our 2D mesh and made it 3D so w
   'I' = 'Inflate Brush' = Left hand side of sculpt mode = will allow us to 
   'F' = 'Change Brush Size' = Pull out to increase brush size, move mouse in to decrease, left click to confirm
   'Shift + F' = 'Increase/Decrease Strength of Brush' = Shift out (Increase Stength) / Shift In (Decrease Strength), left click to confirm
+  'G' = 'Grab' = allows you to push on objects, like pushing clay with your finger - can use to exagerate the design
 Don't go low resolution for things that are round because, they will almost indefinitely appear as jagged edges
+  Tut- 'Subdivision Modifier' - Increased 'Levels Viewport' to 2 and 'Apply' = 1(4x) * 2(4x) = 16x the details/vertices - that's alot of vertices - Phil Swift
+  Tut - Now apply the 'Sculpt Mode' 'Inflate Brush' 
+If you are applying a 'Subdivision Modifier', the 'Render' Levels will disapear - it will just use the 'Levels Viewport' for Viewport and Rendering
 
 
 
