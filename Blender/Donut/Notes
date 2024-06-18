@@ -102,8 +102,13 @@ Part 4 = Sculpting =============================================================
 'Shrink Wrap Modifier' = Add Modifier -> 'Deform' -> 'ShrinkWrap' = Needs to know 'Target' use 'EyeDropper' = Position Matters, Needs to be on top of 'Solidify' ->
   Will wrap an object to another object, will be subtle changes, points where the meshes weren't directly connected, it will connect them
   Tut -  After you have fixed the objects, just click 'Apply'(Ctrl + A) and it will Apply the changes and remove it from the 'Modifiers' stack
-
-
+  Tut - First apply the Shrink Wrap Modifer -> Next Apply the Solidify Modifer
+After we applied the 'Solidify Modifier' it took our 2D mesh and made it 3D so we can change the consistency of the icing glaze - Tedious to select points and draw them out by hand, 
+'Sculpt Mode' = Top Left of Viewport DropDown = Tools will appear to the left hand side of viewport, each one allows us to do different things to the shape
+  'I' = 'Inflate Brush' = Left hand side of sculpt mode = will allow us to 
+  'F' = 'Change Brush Size' = Pull out to increase brush size, move mouse in to decrease, left click to confirm
+  'Shift + F' = 'Increase/Decrease Strength of Brush' = Shift out (Increase Stength) / Shift In (Decrease Strength), left click to confirm
+Don't go low resolution for things that are round because, they will almost indefinitely appear as jagged edges
 
 
 
