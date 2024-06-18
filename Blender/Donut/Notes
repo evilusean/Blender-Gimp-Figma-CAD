@@ -98,7 +98,7 @@ To make the icing less jagged we can change the 'Edge Data' option in the 'solid
 Next we are adding some 'Drip'(not zoomerspeak - literal) - Instead of stretching out the vertices, you need to give it more information by 'Extruding'
 'Extrude' = Select Vertices while holding down 'Shift', After - Hold 'E' and Pull the Selection Downwards(or whatever direction) to Extrude it = It will add a new section/face, like a tail/trail to our icing
 
-
+Part 4 = Sculpting ======================================================================================================================================================================================================================
 
 
 
