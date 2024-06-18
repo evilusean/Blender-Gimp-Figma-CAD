@@ -106,16 +106,18 @@ Part 4 = Sculpting =============================================================
 After we applied the 'Solidify Modifier' it took our 2D mesh and made it 3D so we can change the consistency of the icing glaze - Tedious to select points and draw them out by hand, 
 'Sculpt Mode' = Top Left of Viewport DropDown = Tools will appear to the left hand side of viewport, each one allows us to do different things to the shape
   'I' = 'Inflate Brush' = Left hand side of sculpt mode = will allow us to 
-  'F' = 'Change Brush Size' = Pull out to increase brush size, move mouse in to decrease, left click to confirm
+  'F' = 'Change Brush Size' = Pull out to increase brush size, move mouse in to decrease, left click to confirm - you can set the brush tool to 'Front Faces Only' so it won't accidentaly go through the other side, 
+    'Ctrl + I' = 'Invert Mask' = Will invert the mask on the object you painted, and switch it with the unpainted area
   'Shift + F' = 'Increase/Decrease Strength of Brush' = Shift out (Increase Stength) / Shift In (Decrease Strength), left click to confirm
-  'G' = 'Grab' = allows you to push on objects, like pushing clay with your finger - can use to exagerate the design
+  'G' = 'Grab brush' = allows you to push on objects, like pushing clay with your finger - can use to exagerate the design
+  'M' = 'Mask Tool' = When you draw it will put down a gray layer that will cancel out any other tool you use on it (so if you inflate, the grayed out area won't be affect - kinda like JBoomers and actual inflateSean)
 Don't go low resolution for things that are round because, they will almost indefinitely appear as jagged edges
   Tut- 'Subdivision Modifier' - Increased 'Levels Viewport' to 2 and 'Apply' = 1(4x) * 2(4x) = 16x the details/vertices - that's alot of vertices - Phil Swift
   Tut - Now apply the 'Sculpt Mode' 'Inflate Brush' 
 If you are applying a 'Subdivision Modifier', the 'Render' Levels will disapear - it will just use the 'Levels Viewport' for Viewport and Rendering
-
-
-
+We can use the 'Mask Tool' To create an area that will only be affected by the inflation when we use the inflate tool (opposite inversean)
+  Tut - 'Mask Tool' Set Opacity to 1.0, and go along the ridges of the top to simulate where the glaze would pool on an actual donut
+To apply a uniform inflation to all parts unmasked 
 
 
 
