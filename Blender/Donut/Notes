@@ -82,7 +82,41 @@ Blender 4.0 had a change that makes it more realistic by default, new rendering 
   'Face Project' Option in the Snap Dropdown = Will snap all surrounding vertices to the object, and it will no longer clip through the donut
 If you get clipping issues, add more geometry, bring more vertexes to go over your object, so it can cover over more parts of the surface of another object, to do this use the 'Subdivision Surface Modifier'
 'Subdivision Surface Modifier' Next to modifier Name -> Dropdown arrow -> Click 'Apply' = Will add more geometry to work with 
-Tut - Had to Restart From Scratch - Tried to make a 'sad donut' and it had messed up geometry - saved all the inputs to get back to this stage - 'Ctrl + F' + 'Tut' = How to get back to the tutorial values, saved thankfully
+Tut - Had to Restart From Scratch - Tried to make a 'sad/smiling donut' and it had messed up geometry - saved all the inputs to get back to this stage - 'Ctrl + F' + 'Tut' = How to get back to the tutorial values, saved thankfully
+Just finished recreating the icing again, and need 2 finish 2 tuts today(Tuesday) to (2 2 2 2 2's) be up to date(1 per day - minimum) - Will create a new save file with seperate name to act as a gap stop in case I need to restart again
+If the circle of influence is too large while changing a vertice it will suck in vertices on the opposite side of the donut, it will reach the vertices on the other side of the donut(try to keep CoI small so this doesn't happen)
+  the 'snapping' combined with a large 'circle of influence' will cause the vertices on the back to 'snap' to the vertices on the front - and look extremely fugly, hard to fix if you don't 'Ctrl + Z' immediately
+'Alt + Left Click' On A vertice = Selects all vertices on that 'row'
+'Ctrl + "+"' = Enables the Select More Tool = Will expand the vertices row by row / 'Ctrl + "-"' = Will decrease the Vertices rows 1 by 1 / Dropdown Menu Top of Viewport 'Select' -> 'Select More/Less'
+'H' With Vertices Selected = 'H'ide, will hide the selected vertices / 'Alt + H' = UnHides the hidden vertices / DropDown Menu Top of Vieport 'Mesh' -> 'Show/Hide' -> 'Reveal Hidden' / 'Hide Selected' / 'Hide Unselected'
+Big / Medium / Small Details = Recipe for 'Good Design'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
