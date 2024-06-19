@@ -121,7 +121,7 @@ We can use the 'Mask Tool' To create an area that will only be affected by the i
   Tut - 'Mask Tool' Set Opacity to 1.0, and go along the ridges of the top to simulate where the glaze would pool on an actual donut
 To apply a uniform inflation to all parts unmasked 'Mesh Filter', apply some and smooth it out with 'Mask' -> 'Smooth Mask'
 
-
+Part 5 = Shading ======================================================================================================================================================================================================================
 
 
 
