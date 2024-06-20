@@ -150,7 +150,10 @@ Normal in 3D = What direction the Face is pointing - not what 'Normal' means to 
 'Ctrl + Space' = Full Screen - will hide the 'Node Setup' screen - can zoom in and inspect the changes 
 If you download the 'Poliigon Addon' from the tut guy, it will do all the above Node work for us next time, also downloads quicker, by just clicking 'Apply' in the addon - now we kNOW the process, for future reference
 '/' = Isolate Mode - Will only look at the selected object - will also disable lighting/camera - Top Right to turn on 'Material Preview' (one of the 4 circles)
-
+'Texture Paint' = Very Top Menu where you can find the shading tab = 
+  'Create New Texture' = You are painting into an image, the image doesn't exist yet, so we have to give it one - 'Material Tab' -> 'Image Texture' -> 'New' 
+  Tut - HSV = Hue = 0.086 / Saturation = 0.591 / Value = 1.0 / Alpha = 1.0 
+  'Paint Texture' = Select the newly created texture from dropdown menu on the left hand side = start 'painting' the new mesh/material
 
 
 
