@@ -125,7 +125,7 @@ Part 5 = Shading ===============================================================
 'Material' Tab = Red Circle on far right hand side = Allows us to apply a material/texture/mesh to the currently selected object
   After Selecting *ENSURE THAT THE 'VIEWPORT SHADING(x4 circles)' In top right of Viewport is turned on*
   'Base Color' = An Option that will appear, that will allow you to change the color of the currently selected object
-    'Dot' Next to 'Base Color' = Click -> Pop Down -> Image Texture -> Will replace the color with an image texture = Will need to add in an image 
+    'Dot' Next to 'Base Color' = Click -> Pop Down -> Image Texture -> Will replace the color with an image texture = Will need to add in an image -> Download an image to use as a texture
   'Roughness Value' = An Option = Reflection, the smaller this value, the more reflective/shiny your material will appear - the larger the 'rougher'/porous
   Tut - Roughness Value = 0.3 / Pink Material Added to Icing / Orangeish yellow added to donut
   Tut - add a marble countertop slab 'Shift + A' -> Mesh -> 'Plane' - 'S' = Scale Up / 'G' = Grab, move it up onto the counter
@@ -134,8 +134,8 @@ If you want objects to move together/attach to another object while still being 
 'F3' = Search = Will search for anything you can try to do
 Most texture you find from google image search are good for websites, not 3D, if you are using an image texture - Missing details like how it reflects lights/bumps on surface, shameless self plug:
 https://www.poliigon.com/
-
-
+  Tut - Signed in with google, downloaded a free quartz - 160Mb for a texture - 8k resolution - 16 bit depth - Click on the one that ends with 'COL'
+'Shading' Tab Top of screen dropdown = will change layout of screen - 
 
 
 
