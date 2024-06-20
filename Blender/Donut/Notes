@@ -140,8 +140,14 @@ https://www.poliigon.com/
   'Node Setup' = Bottom section of 'Shading' = exact duplicate of what we did to initially set up the mesh on the right hand side, but as a flowchart
   'Nodes' = Work on a left to right basis, starts at: image texture -> shader -> material output - Between each node, you can add another node
     'Shift + A' = Add a node Dropdown menu (many options) = Add a red hue saturation to change the hue color to red on the marble (like light from a red stained glass window) 
-Tut - We want to use the 'Roughness Map' we downloaded from the 'Image Texture - 160Mb' we just downloaded - 'Shading' -> 'Node Setup' -> Drag out circle from 'Shader Tab - Roughness Option Circle'
-
+Tut - We want to use the 'Roughness Map' we downloaded from the 'Image Texture - 160Mb' we just downloaded - 
+  Tut - 'Shading' -> 'Node Setup' -> Drag out circle from 'Shader Tab -> Roughness Option Circle' -> Type 'Image Texture - Color' -> 'Open' -> File with 'Rougness' in the name
+  Tut - After adding the 'Rougness Texture' we need to tell blender that this is a special map by changing the 'Color Space:' from 'SRGB' to 'Non-color'
+  Tut - Now we need to add in 'Bumps' under the 'Normal' Value in 'Shader Node' - Drag the 'Normal Circle' out and 'Image Texture - Color' -> 'Open' -> 'NRM_8k_METALNESS' Open that one ... the purple one -> Change 'SRGB' to 'Non-color'
+    Tut - Still not done, need to convert it into something that the image texture can read -> 'Shift + A' to add a new node -> 'Vector' -> 'Normal Map' -> Connect it between the 'Image Texture' and 'Shader'
+Normal in 3D = What direction the Face is pointing - not what 'Normal' means to normies normally
+'Normal Map' = A specialized map to pretend that there is detail on the normal face, like bumps and divets
+'Ctrl + Space' = Full Screen
 
 
 
