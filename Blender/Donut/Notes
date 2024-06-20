@@ -122,7 +122,11 @@ We can use the 'Mask Tool' To create an area that will only be affected by the i
 To apply a uniform inflation to all parts unmasked 'Mesh Filter', apply some and smooth it out with 'Mask' -> 'Smooth Mask'
 
 Part 5 = Shading ======================================================================================================================================================================================================================
-
+'Material' Tab = Red Circle on far right hand side = Allows us to apply a material/texture/mesh to the currently selected object
+  After Selecting *ENSURE THAT THE 'VIEWPORT SHADING(x4 circles)' In top right of Viewport is turned on*
+  'Base Color' = An Option that will appear, that will allow you to change the color of the currently selected object
+  'Roughness Value' = An Option = Reflection, the smaller this value, the more reflective/shiny your material will appear - the larger the 'rougher'/porous
+  Tut - Roughness Value = 0.3 / Pink Material Added to Icing / Orangeish yellow added to donut
 
 
 
