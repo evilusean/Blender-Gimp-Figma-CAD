@@ -132,7 +132,7 @@ Part 5 = Shading ===============================================================
 If you want objects to move together/attach to another object while still being it's own seperate object, you need to 'Parent' it - Objject you want to follow selected first, and object you want to 'Parent' selected last
   'Parent' = 'Ctrl + P' = First select the object you want to follow the other object(Child) -> 'Object (Keep Transform)' from menu that appears -> You can now move them both as a single object
 'F3' = Search = Will search for anything you can try to do
-Most texture you find from google image search are good for websites, not 3D, if you are using an image texture - Missing details like how it reflects lights/bumps on surface, shameless self plug:
+Most texture you find from google image search are good for websites, not 3D, if you are using an image texture - Missing details like how it reflects lights/bumps on surface, shameless self plug - theres also an addon:
 https://www.poliigon.com/
   Tut - Signed in with google, downloaded a free quartz - 160Mb for a texture - 8k resolution - 16 bit depth - Click on the one that ends with 'COL'
 'Shading' Tab Top of screen dropdown = will change layout of screen x4 windows, the one with the files is superfluous = to remove, right click on the divider and select 'Join Areas' select the area you want to remove 
@@ -146,8 +146,14 @@ Tut - We want to use the 'Roughness Map' we downloaded from the 'Image Texture -
   Tut - Now we need to add in 'Bumps' under the 'Normal' Value in 'Shader Node' - Drag the 'Normal Circle' out and 'Image Texture - Color' -> 'Open' -> 'NRM_8k_METALNESS' Open that one ... the purple one -> Change 'SRGB' to 'Non-color'
     Tut - Still not done, need to convert it into something that the image texture can read -> 'Shift + A' to add a new node -> 'Vector' -> 'Normal Map' -> Connect it between the 'Image Texture' and 'Shader'
 Normal in 3D = What direction the Face is pointing - not what 'Normal' means to normies normally
-'Normal Map' = A specialized map to pretend that there is detail on the normal face, like bumps and divets
-'Ctrl + Space' = Full Screen
+'Normal Map' = A specialized map to pretend that there is detail on the normal face, like bumps and divets - What we just made was a 'PBR Shader' 
+'Ctrl + Space' = Full Screen - will hide the 'Node Setup' screen - can zoom in and inspect the changes 
+If you download the 'Poliigon Addon' from the tut guy, it will do all the above Node work for us next time, also downloads quicker, by just clicking 'Apply' in the addon - now we kNOW the process, for future reference
+'/' = Isolate Mode - Will only look at the selected object - will also disable lighting/camera - Top Right to turn on 'Material Preview' (one of the 4 circles)
+
+
+
+
 
 
 
