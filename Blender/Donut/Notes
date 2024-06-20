@@ -135,7 +135,12 @@ If you want objects to move together/attach to another object while still being 
 Most texture you find from google image search are good for websites, not 3D, if you are using an image texture - Missing details like how it reflects lights/bumps on surface, shameless self plug:
 https://www.poliigon.com/
   Tut - Signed in with google, downloaded a free quartz - 160Mb for a texture - 8k resolution - 16 bit depth - Click on the one that ends with 'COL'
-'Shading' Tab Top of screen dropdown = will change layout of screen - 
+'Shading' Tab Top of screen dropdown = will change layout of screen x4 windows, the one with the files is superfluous = to remove, right click on the divider and select 'Join Areas' select the area you want to remove 
+  Guy with 1000's of hours of blender experience says that he has never needed either of the ones on the left hand side, I should probably close them as well - that's prime real estate wasted, close both top and bottom left hand side
+  'Node Setup' = Bottom section of 'Shading' = exact duplicate of what we did to initially set up the mesh on the right hand side, but as a flowchart
+  'Nodes' = Work on a left to right basis, starts at: image texture -> shader -> material output - Between each node, you can add another node
+    'Shift + A' = Add a node Dropdown menu (many options) = Add a red hue saturation to change the hue color to red on the marble (like light from a red stained glass window) 
+Tut - We want to use the 'Roughness Map' we downloaded from the 'Image Texture - 160Mb' we just downloaded - 'Shading' -> 'Node Setup' -> Drag out circle from 'Shader Tab - Roughness Option Circle'
 
 
 
