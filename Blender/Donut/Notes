@@ -152,9 +152,10 @@ If you download the 'Poliigon Addon' from the tut guy, it will do all the above 
 '/' = Isolate Mode - Will only look at the selected object - will also disable lighting/camera - Top Right to turn on 'Material Preview' (one of the 4 circles)
 'Texture Paint' = Very Top Menu where you can find the shading tab = 
   'Create New Texture' = You are painting into an image, the image doesn't exist yet, so we have to give it one - 'Material Tab' -> 'Image Texture' -> 'New' 
-  Tut - HSV = Hue = 0.086 / Saturation = 0.591 / Value = 1.0 / Alpha = 1.0 
-  'Paint Texture' = Select the newly created texture from dropdown menu on the left hand side = start 'painting' the new mesh/material
-
+  Tut - HSV = Hue = 0.086 / Saturation = 0.591 / Value = 1.0 / Alpha = 1.0 AND Hue = 0.091 / Saturation = 0.266 FOR THE PAINTING PART (LESS DARK) SECTION
+  'Paint Texture' = Select the newly created texture from dropdown menu on the left hand side = start 'painting' the new mesh/material - you can paint either the square mesh on the left or directly to the object on the right
+    The left hand side square is the unwrapped donut mesh 2D texture/flat image wrapped around a 3D object - UV Unwrapping 
+'Image*' = If you see the '*' star it means that it hasn't been saved to your blender '.blend' file, you will need to manually save the Mesh/Image texture for future use
 
 
 
