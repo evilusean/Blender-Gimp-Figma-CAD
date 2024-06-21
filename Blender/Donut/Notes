@@ -169,6 +169,13 @@ Tut - to add some sprinkles we want to scatter some points onto our mesh - 'Shif
     So what we can do is take the 'Group Input' Connector and feed it over to the 'Join Geometry' '|' connector -  Now we will have both the original Mesh and the new Points
 If you add a 'Set Position' Node on the icing inbetween 'Input' and 'Output' and increase the 'Z-Axis' it will raise it on your screen, but in actuality, the mesh would not have moved off the donut - it just appears to have done so
   You can move the 'Offset' circle to the 'Input' (Click and drag) and it will allow you to change it on the fly from modifier sidebar on the fly - essentially creating your own tool to play with values
+The points don't exist (in render) until we tell it what to render them as, we need to add an object to be our sprinkle - starting with a round ball
+Tut - 'Shift + A'(In viewport) -> 'Mesh' -> 'UV Sphere' = Will be referenced for every single sprinkle So - Segments = 12 / Rings = 8 / Radius = 0.01m
+Tut - To add the newly created sphere to our 'Nodes' go to the collection(top right) and drag the sphere to the 'Node Geometry section' - now we need another node to reference the new object
+Tut - 'Shift + A' (in node) -> Instances -> Instance on Points = Add inbetween 'Distribution Points on Faces' and 'Join Geometry' -> Drag 'Geometry' from 'Sphere Object Info' to 'Interface' of 'Instance on Points'
+  Now our spheres should appear all over the icing, if we increase the density = more spheres, they are crowding eachother and overlap, we need to change this 'Random' distribution to 'Poisson Disk' in the dropdown menu
+    'Poisson Disk' = Change the 'Distance Min' to 0.014 m = Each sphere will now have a little radius around it
+Click 'Pin' = If you click another object, you won't see nodes, it only shows nodes for the currently selected object, click the pin to change this
 
 
 
