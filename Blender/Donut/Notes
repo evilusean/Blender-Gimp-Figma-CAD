@@ -158,10 +158,17 @@ If you download the 'Poliigon Addon' from the tut guy, it will do all the above 
 'Image*' = If you see the '*' star it means that it hasn't been saved to your blender '.blend' file, you will need to manually save the Mesh/Image texture for future use
 
 Part 6 = Geometry Nodes ==================================================================================================================================================================================================================
-
-
-
-
+Sprinkle Sprinkle vs Drizzle Drizzle Vs Grizzle Grizzle - We are going to sprinkle some sprinkles onto our donut, also known as 'Geometry Nodes'
+'Geometry Nodes' = Top of screen same place where you can find shading and texture paint = Actually a modifier, when you create a new node, you create a new modifier =
+  'Geometry Nodes' Allow you to do some crazy stuff like animaSeans that previously would of required some custom scripting before 
+  Top left part of screen is called 'Spreadsheet', you don't need it - 'Right Click Divider' -> 'Join Areas' -> Click on the 'SpreadSheet' to remove it
+Tut - Select 'Icing' -> Click 'New' in bottom middle half -> Will create 2 nodes - 'Group Input' = Mesh / 'Group Output' = Will take mesh and spit out whatever is in Grp Output
+Tut - to add some sprinkles we want to scatter some points onto our mesh - 'Shift A'(add) -> 'Point' -> 'Distribute Points on Faces' -> Move to inbetween 'Input' and 'Output' (click and drag)
+  The Icing has disapeared because we told blender to take the icing (input) and convert it into points(outputs) - we need to tell blender 'Yes, we want the points, but we also want the original mesh' we do that by:
+  Tut - 'Shift A' -> 'Geometry' -> 'Join Geometry' - Note on the left side it's an '|' not an '.' connector - the elongated connector shows that it can take multiple inputs, not just one
+    So what we can do is take the 'Group Input' Connector and feed it over to the 'Join Geometry' '|' connector -  Now we will have both the original Mesh and the new Points
+If you add a 'Set Position' Node on the icing inbetween 'Input' and 'Output' and increase the 'Z-Axis' it will raise it on your screen, but in actuality, the mesh would not have moved off the donut - it just appears to have done so
+  You can move the 'Offset' circle to the 'Input' (Click and drag) and it will allow you to change it on the fly from modifier sidebar on the fly - essentially creating your own tool to play with values
 
 
 
