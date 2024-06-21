@@ -157,7 +157,7 @@ If you download the 'Poliigon Addon' from the tut guy, it will do all the above 
     The left hand side square is the unwrapped donut mesh 2D texture/flat image wrapped around a 3D object - UV Unwrapping 
 'Image*' = If you see the '*' star it means that it hasn't been saved to your blender '.blend' file, you will need to manually save the Mesh/Image texture for future use
 
-
+Part 6 = Geometry Nodes ==================================================================================================================================================================================================================
 
 
 
