@@ -178,15 +178,16 @@ Tut - 'Shift + A' (in node) -> Instances -> Instance on Points = Add inbetween '
 Click 'Pin' = If you click another object, you won't see nodes, it only shows nodes for the currently selected object, click the pin to change this
 We are currently spawning these little balls everywhere on the icing -Top(good), bottom(not good), underneath in between the donut and icing, it will take resources to render this, to fix this, we need to:
 'Weight Painting' = Top Left Mode Dropdown menu -> Select 'Weight Paint' -> Mesh will become blue = Will allow you to paint a value between 0 and 1 and then reference it however you want 
+  'Ctrl + Click' While Weight Painting = Will do a -Negative Paint and remove some paint you've put down
   'Weight' = Will change the value your brush will paint / 'Radius' = radius of brush
   Default Blue Value = '0' / Red Value = '1' (In our version - Light Blue = '1')
   You use weight painting alot for rigging and animation to assign values to certain bones 
 Currently our painting is having no effect, we first need to reference in our 'Geometry Nodes' (Check the 'Data' Tab mid right, It's called a 'Vertex Group'
 Tut -In the 'Distribute Nodes on Faces' Node - You can reference the painted density mask 'Density Factor' Click the circle, drag and release, search 'Named Attribute' add it, and add your renamed vertex from vertex groups to the 'Name'
-
-
-
-
+Sprinkle Sprinkle the donut - typically on the top with dabz randomly 
+'NumPad .' Numpad Period Key = Quickly Zoom to a selected item in your collection
+'`' Tilda Key = Will bring up a circle menu that will allow you to positon camera(Top/Front/Back/Left/Right/View Camera/View Selected)
+Tut - With Sphere Collected in object mode - Right click anywhere in viewport - 'Shade Smooth' to make the sprinkles round
 
 
 
