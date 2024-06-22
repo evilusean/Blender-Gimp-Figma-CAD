@@ -194,7 +194,7 @@ At this point, if you were to duplicate the donut - they will both share the sam
 'N' Press while in 'Properties' = Will pull up the 'Dimensions' Menu, 
 'A' = Select everything in the entire scene 
 'S' to scale + hold 'Ctrl' = Will increase/decrease in increments 
-'Ctrl + A' + Selected Objects - Select 'Apply Scale' = When you change the scale, it is only changed locally, not globally, doing this will apply the scale to all the selected objects instead of faking it
+'Ctrl + A' + Selected Objects - Select 'Scale'(Will Apply Scale Globally) = When you change the scale, it is only changed locally, not globally, doing this will apply the scale to all the selected objects instead of faking it
 Technically it's all relative so value shouldn't matter, but it does when rendering with depth of field or comparing it to other objects or camera settings, so try to create a value that's true-ish for objects in blender
 
 
