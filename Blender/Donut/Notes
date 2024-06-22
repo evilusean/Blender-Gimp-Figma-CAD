@@ -191,9 +191,11 @@ Tut - With Sphere Collected in object mode - Right click anywhere in viewport - 
 At this point, if you were to duplicate the donut - they will both share the same node group, linked (same properties - will look the same) - 'Expose' it, to fix it do below :
   'Expose' = Drag the 'Density Max' value circle from 'Distribution Points on Faces' to 'Group Input' empty slot - the value will now appear in your modifier stack - This will tell blender that 'this is it's own seperate thing'
     and treat it differently - and will be independant for each object that share the same 'Geometry Node' - Creating a customized node group viewable in your modifiers if you duplicate many donuts, change values individually
-
-
-
+'N' Press while in 'Properties' = Will pull up the 'Dimensions' Menu, 
+'A' = Select everything in the entire scene 
+'S' to scale + hold 'Ctrl' = Will increase/decrease in increments 
+'Ctrl + A' + Selected Objects - Select 'Apply Scale' = When you change the scale, it is only changed locally, not globally, doing this will apply the scale to all the selected objects instead of faking it
+Technically it's all relative so value shouldn't matter, but it does when rendering with depth of field or comparing it to other objects or camera settings, so try to create a value that's true-ish for objects in blender
 
 
 
