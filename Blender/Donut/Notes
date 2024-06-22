@@ -188,6 +188,11 @@ Sprinkle Sprinkle the donut - typically on the top with dabz randomly
 'NumPad .' Numpad Period Key = Quickly Zoom to a selected item in your collection
 '`' Tilda Key = Will bring up a circle menu that will allow you to positon camera(Top/Front/Back/Left/Right/View Camera/View Selected)
 Tut - With Sphere Collected in object mode - Right click anywhere in viewport - 'Shade Smooth' to make the sprinkles round
+At this point, if you were to duplicate the donut - they will both share the same node group, linked (same properties - will look the same) - 'Expose' it, to fix it do below :
+  'Expose' = Drag the 'Density Max' value circle from 'Distribution Points on Faces' to 'Group Input' empty slot - the value will now appear in your modifier stack - This will tell blender that 'this is it's own seperate thing'
+    and treat it differently - and will be independant for each object that share the same 'Geometry Node' - Creating a customized node group viewable in your modifiers if you duplicate many donuts, change values individually
+
+
 
 
 
