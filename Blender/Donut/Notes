@@ -203,7 +203,8 @@ The replacement numbers are very large - scale is too large - You can do a math 
 Inside 'Geometry Node' 'Shift A' -> Utilities -> Math -> Math -> change to 'Multiply' and 'Value' = Will allow you to add multiplication of scale, so you don't have to use ludicrous values
 
 Step 7 = Geometry Nodes(Long Sprinkles)=================================================================================================================================================================================================
-!ERROR! - Camera is locked for some reason, can't zoom, scroll or pan - need to fix
+!ERROR! - Camera is locked for some reason, can't zoom, scroll or pan - need to fix: 
+  Fix: Typically, when you can't zoom in as far as you'd like, it's because you're in perspective view instead of orthographic view. You can toggle between the two by hitting the “5” key on the numeric keypad.
 Long Sprinkles - Same method as above, first we need to model the sprinkles - 
   Tut - 
 
