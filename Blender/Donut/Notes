@@ -210,7 +210,11 @@ Long Sprinkles - Same method as above, first we need to model the sprinkles - We
   Tut - 'Shift + A' -> Mesh -> Cylinder: Vertices = 12 / Radius = 0.001m / Depth = 0.001m 
   Tut - 'N' -> View Tab -> 'Clip Start' -> 0.001m = Our object is still too small and is clipping out, to fix this we need to change the 'Clip Start' Value, the default value will always clip on super small objects, need2remember2fix
   Tut - 'S' + Hold 'Z' = Will allow us to scale it on the Z axis (elongate it)
-
+'Bevel' = 'Ctrl + B'(In Edit Mode + Face Select Mode) Scroll Up/Down or (+/-) will remove/add another 45 degree level each time = 'Edit Mode' + Top Left 3 square far right 'Face Select Mode' 
+  Tut - Select both top and bottom face, 'Ctrl + B' To create a Bevel = He did 3 scrolls down/- = rounded both edges
+  Tut - Created Small - 'Shift + D' to create duplicates for Med/Large/Bent + 'X' to move along X-Axis - select
+'Duplicate' = 'Shift + D' With Object Selected = create duplicates
+Change Orbit Sensitivity = Preferences > Navigation > Orbit & Pan > Orbit Sensitivity = Was Wayyyyyy too sensitive after shrinking objects, one flick would rotate the objects off screen - frustraSean trying to do 180 deg flip
 
 
 
