@@ -215,7 +215,7 @@ Long Sprinkles - Same method as above, first we need to model the sprinkles - We
   Tut - Created Small - 'Shift + D' to create duplicates for Med/Large/Bent + 'X' to move along X-Axis - select
 'Duplicate' = 'Shift + D' With Object Selected = create duplicates
 Change Orbit Sensitivity = Preferences > Navigation > Orbit & Pan > Orbit Sensitivity = Was Wayyyyyy too sensitive after shrinking objects, one flick would rotate the objects off screen - frustraSean trying to do 180 deg flip
-
+Tut - Make Medium = Duplicate, Move - Edit Mode -> 'Toggle WireFrame' Top Right + 'Vertice Select Mode' Top Left + Select top Vertices 'G' +  'Z' move on z axis to make / Make Tall = Same process
 
 
 
