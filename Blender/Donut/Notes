@@ -196,7 +196,10 @@ At this point, if you were to duplicate the donut - they will both share the sam
 'S' to scale + hold 'Ctrl' = Will increase/decrease in increments 
 'Ctrl + A' + Selected Objects - Select 'Scale'(Will Apply Scale Globally) = When you change the scale, it is only changed locally, not globally, doing this will apply the scale to all the selected objects instead of faking it
 Technically it's all relative so value shouldn't matter, but it does when rendering with depth of field or comparing it to other objects or camera settings, so try to create a value that's true-ish for objects in blender
-
-
+After applying 'Scale' Globally - our sprinkles disapeared - Density is in relation to the entire scene, 'Bugs on windshield' example, the larger the object, the more bugs, smaller=fewer, to fix this you need to:
+  Tut - increase the  'Density' and 'Distance min'   
+Also Note to deselect All when trying to change density, wasted an embarrasing amount of time trying to figure out where the modifer is.. select the icing again by itself
+The replacement numbers are very large - scale is too large - You can do a math value inside of your 'Geometry Node' setup to multiply the value, by adding another node, 
+Inside 'Geometry Node' 'Shift A' -> Utilities -> Math -> Math -> change to 'Multiply' and 'Value' = Will allow you to add multiplication of scale, so you don't have to use ludicrous values
 
 
