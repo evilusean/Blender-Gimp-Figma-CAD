@@ -205,11 +205,11 @@ Inside 'Geometry Node' 'Shift A' -> Utilities -> Math -> Math -> change to 'Mult
 Step 7 = Geometry Nodes(Long Sprinkles)=================================================================================================================================================================================================
 !ERROR! - Camera is locked for some reason, can't zoom, scroll or pan - need to fix: 
   Fix: Typically, when you can't zoom in as far as you'd like, it's because you're in perspective view instead of orthographic view. You can toggle between the two by hitting the “5” key on the numeric keypad.
-Long Sprinkles - Same method as above, first we need to model the sprinkles - 
-  Tut - 
 'Shift + Right Click' (on the viewport) = Will move 3D cursor, the circle where new objects you create will spawn in 
-
-
+Long Sprinkles - Same method as above, first we need to model the sprinkles - We are going to model small/medium/large and bent sprinkles
+  Tut - 'Shift + A' -> Mesh -> Cylinder: Vertices = 12 / Radius = 0.001m / Depth = 0.001m 
+  Tut - 'N' -> View Tab -> 'Clip Start' -> 0.001m = Our object is still too small and is clipping out, to fix this we need to change the 'Clip Start' Value, the default value will always clip on super small objects, need2remember2fix
+  Tut - 'S' + Hold 'Z' = Will allow us to scale it on the Z axis (elongate it)
 
 
 
