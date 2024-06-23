@@ -157,7 +157,7 @@ If you download the 'Poliigon Addon' from the tut guy, it will do all the above 
     The left hand side square is the unwrapped donut mesh 2D texture/flat image wrapped around a 3D object - UV Unwrapping 
 'Image*' = If you see the '*' star it means that it hasn't been saved to your blender '.blend' file, you will need to manually save the Mesh/Image texture for future use
 
-Part 6 = Geometry Nodes ==================================================================================================================================================================================================================
+Part 6 = Geometry Nodes(sprinkles)======================================================================================================================================================================================================
 Sprinkle Sprinkle vs Drizzle Drizzle Vs Grizzle Grizzle - We are going to sprinkle some sprinkles onto our donut, also known as 'Geometry Nodes'
 'Geometry Nodes' = Top of screen same place where you can find shading and texture paint = Actually a modifier, when you create a new node, you create a new modifier =
   'Geometry Nodes' Allow you to do some crazy stuff like animaSeans that previously would of required some custom scripting before 
@@ -202,4 +202,4 @@ Also Note to deselect All when trying to change density, wasted an embarrasing a
 The replacement numbers are very large - scale is too large - You can do a math value inside of your 'Geometry Node' setup to multiply the value, by adding another node, 
 Inside 'Geometry Node' 'Shift A' -> Utilities -> Math -> Math -> change to 'Multiply' and 'Value' = Will allow you to add multiplication of scale, so you don't have to use ludicrous values
 
-
+Step 7 = Geometry Nodes(Long Sprinkles)=================================================================================================================================================================================================
