@@ -207,7 +207,7 @@ Step 7 = Geometry Nodes(Long Sprinkles)=========================================
   Fix: Typically, when you can't zoom in as far as you'd like, it's because you're in perspective view instead of orthographic view. You can toggle between the two by hitting the “5” key on the numeric keypad.
 Long Sprinkles - Same method as above, first we need to model the sprinkles - 
   Tut - 
-
+'Shift + Right Click' (on the viewport) = Will move 3D cursor, the circle where new objects you create will spawn in 
 
 
 
