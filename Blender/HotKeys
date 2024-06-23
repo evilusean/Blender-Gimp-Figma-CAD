@@ -6,15 +6,17 @@ Properties = N
 Add Object/Node = Shift + A
 Delete = X or Delete
 Search = F3
-Move = G
+Move/Grab = G
 Scale = S
 Rotate = R
+Rotating on Axis = Best Practice = When rotating in 3D, it get's messy, it might look like you are rotating correctly, but it only takes a few degrees off to make it look horrible, use rotate on axis(X,Y,Z) to keep assets clean
 Rotate along axis = R then X/Y/Z
 Rotate along local axis = R then X,X/Y,Y/Z,Z
 Trackball Rotate = R, R
 Precise movement = Shift (hold)
 Incremental movement = Ctrl (hold)
-Duplicate = Shift + D
+Duplicate = Shift + D = Pro Tip: Create Shapes that you are going to be reusing alot for your project off scene, and copy paste them when needed (lumber/rocks/windows/lamps/books/plants-etc)
+  When Better at design - create a 'starter file' with a bunch of starter assets you can reuse - pull in whatever assets you need to your new project instead of rebuilding
 Duplicate Linked = Alt + D
 Hide = H
 Unhide All = Alt + H
@@ -22,9 +24,16 @@ Hide all Except Selected = Shift + H
 Annotate = D (hold) + LMB (drag)
 Erase Annotation = D (hold) + RMB (drag)
 Quick favs menu = Q
+Ctrl + A = Apply Transforms (Should do this every major shape change - if something isn't behaving the way you want it to, you probably forgot to apply transforms) 
+  Reset CenterPoint = 'Right Click' Object -> 'Set Origin' -> 'Origin To Geometry' = After applying transforms center point is sometimes off, you can reset it to the object
+Array Tool = 'Modifier Tab' -> 'Array' = Duplicates your shape, can tell it how many times you want to duplicate and space inbetween each shape (Trees/Stairs/Pillars/Roof/
+Mirror = 'Modifer Tab' -> 'Mirror' = Allows you to mirror an object/array instead of duplicating and placing - change one and change both/all
+'Camera To View' = Click on Camera, When Selected click 'Camera to View' checkbox = Instead of manually repositioning camera, checking, repeat ad infitum - Go FPV - and move camera to exactly where it needs to be
+'Max Samples' = Rendering Modifer Tab = Quicker Rendering by reducing samples, each 'sample' is a rerender, the more passes, the crisper the image, can take multiple minutes, speed it up by reducing the samples (4096 vs 10 samples)
 
-
-
-
+Loop Cut = 'Edit Mode' + 'Ctrl + R' = Might have to reposition cuts = Works on any shape. Quick, easy way to subdivide any object (long rectangle into x5 squares) which makes it easier to move and manipulate shape faces 
+  Scroll up/down = Will increase/decrease amount of subdivisions you are making with Loop Cut
+Inset Tool = Have a face selected, Tap 'I' + Move Mouse In/Out for size = If you want to add a window/hole, Inset is the easiest/fastest way 
+Extrude Tool = Tap 'E' =  Once you have inset something tap 'E' to extrude it to push it in or pull it out (create Pipes/Windows/ Etc)
 
 
