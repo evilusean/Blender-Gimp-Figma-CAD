@@ -224,7 +224,9 @@ Fix #2 = Also figured out it needs to be duplicated in 'Object Mode' not 'Edit M
 Fix #3 = Also after doing the loop cut, go back to 'Object Mode' press 'Ctrl + A' click 'Scale' or it will look very weird
 Tut / Fix #4 = Also apply the 'Simple Deform' 'Bend' modifier @ 30 deg
 Finally got it working, had to delete all work and start from scratch, now the duplicate works correctly.. that took wayyyyy too long to bend a sprinkle.. it still looks weird.. but time to move forward
-
+  Ok, the reason why it looked weird - was the origin point - and when it's selected the selection highlight is still showing it straight, when you deselect, you can see that it is bent - weird - idk
+'Origin Point' = Center of Mass = In blender - when you 'Bend' it bends it according to the origin point - which also affects rotation / physics 
+  'Set Origin' = select objects -> 'Right Click' -> 'Set Origin' -> 'Origin to Geometry'
 
 
 
