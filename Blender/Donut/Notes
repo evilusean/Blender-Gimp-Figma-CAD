@@ -227,8 +227,9 @@ Finally got it working, had to delete all work and start from scratch, now the d
   Ok, the reason why it looked weird - was the origin point - and when it's selected the selection highlight is still showing it straight, when you deselect, you can see that it is bent - weird - idk
 'Origin Point' = Center of Mass = In blender - when you 'Bend' it bends it according to the origin point - which also affects rotation / physics 
   'Set Origin' = select objects -> 'Right Click' -> 'Set Origin' -> 'Origin to Geometry'
-
-
+'Outline' = Top right box that contains every object we've created - to organise : group things together by creating 'Collections' button in top right corner
+  'Move' Objects in a collection = Press 'M' With Objects you want to move selected / Click and drag items from outline
+Tut - 'Shift + D' - Create a Duplicate Donut
 
 
 
