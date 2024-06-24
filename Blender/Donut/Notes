@@ -216,7 +216,9 @@ Long Sprinkles - Same method as above, first we need to model the sprinkles - We
 'Duplicate' = 'Shift + D' With Object Selected = create duplicates
 Change Orbit Sensitivity = Preferences > Navigation > Orbit & Pan > Orbit Sensitivity = Was Wayyyyyy too sensitive after shrinking objects, one flick would rotate the objects off screen - frustraSean trying to do 180 deg flip
 Tut - Make Medium = Duplicate, Move - Edit Mode -> 'Toggle WireFrame' Top Right + 'Vertice Select Mode' Top Left + Select top Vertices 'G' +  'Z' move on z axis to make / Make Tall = Same process
-
+Tut - 'Ctrl + R' = Loop Cut = We need to add more geometry onto the sprinkle to bend it 'x8 cuts' -> 'Right click' to cancel placement so they get placed directly in center
+Tut - Modifiers -> 'Add Modifier' -> Simple Deform -> By default it is wrong - Change from 'Twist' to 'Bend' -> 'Apply
+!Error! - When I duplicated - they didn't create a new object, they were all still under the old 'Cylinder' - so when I applied the modifier, it made them all bendy - need to fix
 
 
 
