@@ -222,6 +222,7 @@ Tut - Modifiers -> 'Add Modifier' -> Simple Deform -> By default it is wrong - C
 Fix = Need to fiddle with settings, and restart building the sprinkles - wasted so much time trying to figure this out: https://blenderartists.org/t/duplicate-object-cant-be-separated-from-original/417237
 Fix #2 = Also figured out it needs to be duplicated in 'Object Mode' not 'Edit Mode' even with changed settings
 Fix #3 = Also after doing the loop cut, go back to 'Object Mode' press 'Ctrl + A' click 'Scale' or it will look very weird
+Tut / Fix #4 = Also apply the 'Simple Deform' 'Bend' modifier @ 30 deg
 Finally got it working, had to delete all work and start from scratch, now the duplicate works correctly.. that took wayyyyy too long to bend a sprinkle.. it still looks weird.. but time to move forward
 
 
