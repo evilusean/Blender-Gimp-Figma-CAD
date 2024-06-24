@@ -232,6 +232,11 @@ Finally got it working, had to delete all work and start from scratch, now the d
 Tut - 'Shift + D' - Create a Duplicate Donut
 'Number of Users' in 'Geometry Modifier' = There is a number directly beside the name of the modifier we already created for the small sphere sprinkles labeled '2' - 
   Tut - Click the '2' - It will make each donut independant and not share the same 'Geometry Modifier'
+!REMOVE PIN! We placed a pin last time we used the 'Geometry Modifier' - Always check if that is there, before editing - even if you selected another object that pin will cause you to edit the ... pinned one redundant
+Tut - 'Instance on Point Node' - 'Click and drag' 'Long Sprinkles Collection' Drag 'Instances' into 'Instance Input' = Change this from sphere to the 4 cylinders in the collection we created
+   Now we need to fix the placement - Global vs Relative Position - Whenever you use collections to scatter, you need to check 3 boxes 'Seperate Children' 'Reset Children' 'Pick Instance'(was using all 4-should only be 1)
+
+
 
 
 
