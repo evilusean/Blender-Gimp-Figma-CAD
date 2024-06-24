@@ -230,6 +230,8 @@ Finally got it working, had to delete all work and start from scratch, now the d
 'Outline' = Top right box that contains every object we've created - to organise : group things together by creating 'Collections' button in top right corner
   'Move' Objects in a collection = Press 'M' With Objects you want to move selected / Click and drag items from outline
 Tut - 'Shift + D' - Create a Duplicate Donut
+'Number of Users' in 'Geometry Modifier' = There is a number directly beside the name of the modifier we already created for the small sphere sprinkles labeled '2' - 
+  Tut - Click the '2' - It will make each donut independant and not share the same 'Geometry Modifier'
 
 
 
