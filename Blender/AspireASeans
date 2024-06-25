@@ -42,6 +42,7 @@ Design a long range surveilance drone that can run on a 2 stroke gasoline lawnmo
 
 Comfy Cabin = Individual Logs + DoveTail Joints / Japanese WoodWorking Joints / Windows / Doors / Frames / Accurate Measurements - Average LogSize for Hardwood? 
 Comfy Cabin / Floor Plan / Mapping out area in blender - FloorPlans on LibreCAD - Just precut the logs - number in order during design - Based and Cabinpilled: https://www.youtube.com/watch?v=xdDDOtbajds&ab_channel=Wranglerstar
+CC - PreDrill/hollow out sections for electronics/switches/plugs/plumbing/flooring and their run - good design could save time: https://www.youtube.com/watch?v=Ri3VlJefwsE&ab_channel=Wranglerstar
   Could we somehow get a drone to accurately read topography and do a patrol route without a connection + Come back/recharge - would I be helping to build my own futuristic tech dystopia enslavement If I built something like this? 
   Step 1) Escape Canada - Step 2) Money - Step 3) Build Cool Sh!t - Give them Nothing - Nihil - They have already taken enough - No Mas - No More - If they want to be slaves, let them build their own cage - Enjoy your failed state.
   They already have robotic lawnmowers - maybe work functionally similar to that? how would a drone 'perceive' the ground? If it detects a change, take a picture, and send a notificASean when it returns - OpenCV for python -> Embedded?
