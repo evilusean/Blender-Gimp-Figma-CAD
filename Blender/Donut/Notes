@@ -241,7 +241,7 @@ My donut looks like it just got a 5$ haircut - To change the rotation of the spr
 It looks better, but they look the same(all rotated in same direction) It's uncanny, to add some randomness to the rotation, we can (used to be called 'Rotate Euler', Now called 'Rotate Rotation':
   Tut - 'Shift + A'(Add) In Geometry Nodes -> 'Utilties' -> 'Rotation' -> 'Rotate Rotation' = Place inbetween both 'Rotation's you just created, Values = 'Local'
   Tut - 'Shift + A'(Add) In Geometry Nodes -> 'Utilties' -> 'Random Value' = MAX(X = 0.5 / Y = 6.283 / Z = 6.283)  
-      Drag 'Rotate By' Circle out, and connect to 'Random Value' above, so the sprinkles can be randomized -
+      Drag 'Rotate By' Circle out, and connect to 'Random Value' above, so the sprinkles can be randomized - Change the 'Random Value' from 'Float' to 'Vector' so you can modify (X,Y,Z)
 'R' = Rotate =  
 
 
