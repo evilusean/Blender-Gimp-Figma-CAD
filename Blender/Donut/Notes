@@ -235,8 +235,12 @@ Tut - 'Shift + D' - Create a Duplicate Donut
 !REMOVE PIN! We placed a pin last time we used the 'Geometry Modifier' - Always check if that is there, before editing - even if you selected another object that pin will cause you to edit the ... pinned one redundant
 Tut - 'Instance on Point Node' - 'Click and drag' 'Long Sprinkles Collection' Drag 'Instances' into 'Instance Input' = Change this from sphere to the 4 cylinders in the collection we created
    Now we need to fix the placement - Global vs Relative Position - Whenever you use collections to scatter, you need to check 3 boxes 'Seperate Children' 'Reset Children' 'Pick Instance'(was using all 4-should only be 1)
-
-
+My donut looks like it just got a 5$ haircut - To change the rotation of the sprinkles - we need to :
+  'Dirtubute Points on Faces' - 'Rotation' circle, click and drag to -> 'Instances on Points' 'Rotation' 
+  Tut - After hooking up the sprinkles above, Select the sprinkles then 'R' to Rotate then rotate them on the x axis to make them flat - Rotate 90 degrees -> 'Ctrl + A' Click 'Rotation' to set it
+It looks better, but they look the same(all rotated in same direction) It's uncanny, to add some randomness to the rotation, we can :
+  'Shift + A'(Add) In Geometry Nodes -> 'Utilties' -> 'Rotation' -> 'Rotate Euler' 
+'R' = Rotate =  
 
 
 
