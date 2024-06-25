@@ -243,7 +243,7 @@ It looks better, but they look the same(all rotated in same direction) It's unca
   Tut - 'Shift + A'(Add) In Geometry Nodes -> 'Utilties' -> 'Random Value' = MAX(X = 0.5 / Y = 6.283 / Z = 6.283)  
       Drag 'Rotate By' Circle out, and connect to 'Random Value' above, so the sprinkles can be randomized - Change the 'Random Value' from 'Float' to 'Vector' so you can modify (X,Y,Z)
 'R' = Rotate =  
-
+  Tut - Change 'Distance Min' = 0.003 (I changed to 0.001) / Change 'Scale' on 'Instance on Points' (X,Y,Z = 0.6) - To create smaller or larger sprinkles
 
 
 
