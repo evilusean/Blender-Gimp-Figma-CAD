@@ -62,4 +62,24 @@ Loop Cut = 'Edit Mode' + 'Ctrl + R' = Might have to reposition cuts = Works on a
 Inset Tool = Have a face selected, Tap 'I' + Move Mouse In/Out for size = If you want to add a window/hole, Inset is the easiest/fastest way 
 Extrude Tool = Tap 'E' =  Once you have inset something tap 'E' to extrude it to push it in or pull it out (create Pipes/Windows/ Etc)
 
+Object Mode (3D viewport) ============================================================================================================================================================================================================
+Mode Pie Menu = Ctrl + TAB
+Edit/Object mode toggle = TAB
+Mirror = Ctrl + M then X/Y/Z (or MMB (drag))
+Set Parent = Ctrl + P
+Clear Parent = Alt + P
+Toggle Snapping = Shift + TAB
+Clear Location = Alt + G
+Clear Rotation = Alt + R
+Clear Scale = Alt + S
+Apply Location / Scale / Rotation = Ctrl + A
+Join Selected Objects = Ctrl + J
+Copy Attributes to New Objects = Ctrl + L
+Add Subdivision level = Ctrl + 0/1/2/3/4/5
+Mask view to region / Clear mask = Alt + B
+Center 3D cursor = Shift + C
+Move active object to Collection = M
+Move Active Camera to view = Ctrl + Alt + Numpad 0
+Set as Active Camera = Ctrl + Numpad 0
+
 
