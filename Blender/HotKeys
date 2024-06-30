@@ -24,6 +24,23 @@ Hide all Except Selected = Shift + H
 Annotate = D (hold) + LMB (drag)
 Erase Annotation = D (hold) + RMB (drag)
 Quick favs menu = Q
+Select = LMB
+Select All = A
+Deselect All = Alt + A
+Marquee Box Select = B
+Circle Select = C
+Lasso Select = Ctrl + RMB
+Invert Selection = Ctrl + i
+Select Linked = Shift + L
+Select Similar = Shift + G
+Select specific object = Alt + LMB
+Shading (3D viewport):
+Shading Pie Menu = Z
+Toggle X-Ray = Alt + Z
+Pie Menus:
+Pivot point pie menu = .
+Snap pie menu = Shift + S
+Orientation pie menu = ,
 Ctrl + A = Apply Transforms (Should do this every major shape change - if something isn't behaving the way you want it to, you probably forgot to apply transforms) 
   Reset CenterPoint = 'Right Click' Object -> 'Set Origin' -> 'Origin To Geometry' = After applying transforms center point is sometimes off, you can reset it to the object
 Array Tool = 'Modifier Tab' -> 'Array' = Duplicates your shape, can tell it how many times you want to duplicate and space inbetween each shape (Trees/Stairs/Pillars/Roof/
