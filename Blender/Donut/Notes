@@ -246,7 +246,8 @@ It looks better, but they look the same(all rotated in same direction) It's unca
   Tut - Change 'Distance Min' = 0.003 (I changed to 0.001) / Change 'Scale' on 'Instance on Points' (X,Y,Z = 0.6) - To create smaller or larger sprinkles
 
 Part 8 = Rendering ===================================================================================================================================================================================================================
-
+Took a break from 26June2024-29June2024 to do some ThreeJS work and upgrade the CV2, 2 Da Moon! Back to 3D Bl3nDer ~
+Coloring the sprinkles for this tut - Moved the Folder to '1Donut' and it messed up the textures/shaders - going to have to fix before moving forward 
 
 
 
