@@ -249,7 +249,9 @@ Part 8 = Rendering =============================================================
 Took a break from 26June2024-29June2024 to do some ThreeJS work and upgrade the CV2, 2 Da Moon! Back to 3D Bl3nDer ~
 Coloring the sprinkles for this tut - Moved the Folder to '1Donut' and it messed up the textures/shaders - going to have to fix before moving forward 
 Tut - Part 5: Shading = 6:30 = To fix the shaders - start here - I wonder if it also messed up every other save I made (5,6,7) - Might mess up my ProgressSean Gif
-
+  Tut - Top menus -> 'Shading' -> Values with files listed below = ( '->' means connects to) 
+    'QuartziteDenali002_COL_8K_METALNESS.png' Color -> 'Principled BSDF' Base Color -> 'Material Output' Surface
+    -> 'Principled BSDF' Roughness
 
 
 
