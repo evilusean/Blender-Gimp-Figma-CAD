@@ -260,9 +260,11 @@ If you color each individual sprinkle that you used to model, it will lock it to
 To give multiple objects the same material, first create the material on an object, then (with the object still selected) 'Shift + Click' on the other objects you wish to apply it to, THEN 'shift + click' the object with material again
   'Ctrl + L' (after selecting all objects as typed out above) -> 'Link Materials' -> 'Link Materials' = Link Menu (will allow you to link multiple options for the objects)
   After linking materials you will now see a '5' next to the name showing that it is now linked to 5 different materials
-
-
-
+'Shift + A' (in shading tab) -> 'Input' -> 'Object Info' Node = Can do many things, the one we are using for the donuts is 'Random' - Will assign a random value between 0 and 1 for each individual sprinkle
+  'Object Info' Random -> Base Color 'Principled BSDF'
+'Shift + A' (in shading tab) -> 'Converter' -> 'Color Ramp' = Can change into any color - Sprinkles of different colors - Every sprinkle will have a different shade now - Linear Gradient
+  'Object Info' Random -> FAC 'Color Ramp' Color -> Base Color 'Principled BSDF'
+Tut - Do above 2 inputs in shading nodes, and now change 'Color Ramp' from 'Linear'(gradient) to 'Constant'(will be only the colors you choose - now slider will be the % of those with the color
 
 
 
