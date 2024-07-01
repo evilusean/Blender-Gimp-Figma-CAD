@@ -265,7 +265,8 @@ To give multiple objects the same material, first create the material on an obje
 'Shift + A' (in shading tab) -> 'Converter' -> 'Color Ramp' = Can change into any color - Sprinkles of different colors - Every sprinkle will have a different shade now - Linear Gradient
   'Object Info' Random -> FAC 'Color Ramp' Color -> Base Color 'Principled BSDF'
 Tut - Do above 2 inputs in shading nodes, and now change 'Color Ramp' from 'Linear'(gradient) to 'Constant'(will be only the colors you choose - now slider will be the % of those with the color
-
+Arrange the slider to set the amount of color for each 
+You can make the white/yellow sprinkles 'Metallic' to make them silver and gold 
 
 
 
