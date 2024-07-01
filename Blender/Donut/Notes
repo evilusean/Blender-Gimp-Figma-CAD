@@ -254,7 +254,12 @@ Tut - Part 5: Shading = 6:30 = To fix the shaders - start here - I wonder if it 
     'QuartziteDenali002_COL_8K_METALNESS.png' Color -> Base Color 'Principled BSDF' BSDF -> Surface 'Material Output'
     'QuartziteDenali002_ROUGHNESS_8K_METALNESS.png' Color -> Roughness 'Principled BSDF' 
     'QuartziteDenali002_NRM_8K_METALNESS.png' Color -> Color 'Normal Map' Normal -> Normal 'Principled BSDF'
-
+!Error! Finally fixed the Texture/Shading, now the light is wayyyyyyy too bright, it's making everything white, can't view details, switching to 'Viewport Shading' to ignore lighting for now, going to have to fix before render though
+If you color each individual sprinkle that you used to model, it will lock it to that one so that ALL small ones will be green, etc
+  Also you can't change the color distribution(Hue Saturation R) of the colours easily, they will ALL be the same shades of those colours. no off white, green, etc
+To give multiple objects the same material, first create the material on an object, then (with the object still selected) 'Shift + Click' on the other objects you wish to apply it to, THEN 'shift + click' the object with material again
+  'Ctrl + L' (after selecting all objects as typed out above) -> 'Link Materials' -> 'Link Materials' = Link Menu (will allow you to link multiple options for the objects)
+  After linking materials you will now see a '5' next to the name showing that it is now linked to 5 different materials
 
 
 
