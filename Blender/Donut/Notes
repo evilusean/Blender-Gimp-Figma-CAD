@@ -277,8 +277,10 @@ For shiny = Metallic + No Roughness
 Donut is finished after that, 
 
 Rendering(Part 8) = 10:20 ==========================================================================================================================================================================================================
-
-
+Ok, fixed the lighting, my light was stuck at 500w(500 watts) turn down for what? burn bright like the sun, needed shades, turned down to like 12 watts to fix it, 
+'0' numpad = Camera view = will take you to camera view -  
+  trying to recreate the scene from A1L - going to need a larger plane and then a wall with the gif playing on it, then render that save to gif, then add the rest of the donuts from 4-8 to show progressSean
+'Shift + `' (tilda)(with camera selected) = Fly Mode = 'View' Dropdown -> 'Navigation' -> 'Fly Navigation' = Allows you to move with 'WASD E(up)Q(down)' controls FPV - very sensitive controls - 'Scroll Wheel' to change sensitivty
 
 
 
