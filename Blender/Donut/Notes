@@ -274,7 +274,9 @@ Tut - Duplicate the 'Color Ramp' Remove all the non metallic colors, gold(yellow
 If you reduce the roughness in the 'Principled BSDF' it will remove the roughness for all, to fix this, Duplicate the 'Color Ramp' of the ones you want to make shiny - 
   'Color Ramp' Color -> Roughness 'Principled BSDF' = Now with the changed 'Value' Slider, select which colours you want to have roughness(or not) - Basically the inverted values above 
 For shiny = Metallic + No Roughness
+Donut is finished after that, 
 
+Rendering(Part 8) = 10:20 ==========================================================================================================================================================================================================
 
 
 
