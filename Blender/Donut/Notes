@@ -266,10 +266,14 @@ To give multiple objects the same material, first create the material on an obje
   'Object Info' Random -> FAC 'Color Ramp' Color -> Base Color 'Principled BSDF'
 Tut - Do above 2 inputs in shading nodes, and now change 'Color Ramp' from 'Linear'(gradient) to 'Constant'(will be only the colors you choose - now slider will be the % of those with the color
 Arrange the slider to set the amount of color for each 
-You can make the white/yellow sprinkles 'Metallic' to make them silver and gold 
-
-
-
+'Principled BSDF' Metallic Shader = 0-1 slider = You can make the white/yellow sprinkles 'Metallic' to make them silver and gold 
+Non Metallic = Dielectric Materials (scientific term) = Materials should either be 0(none) or 1(All) 
+'Ctrl + Shift + D' = Duplicate, but retain the connection
+Tut - Duplicate the 'Color Ramp' Remove all the non metallic colors, gold(yellow), White(silver) - 
+  'Object Info' Random -> FAC 'Color Ramp' Color -> Metallic 'Principled BSDF' / Also need to reduce the 'Roughness' in 'Principled BSDF' for a more metallic look
+If you reduce the roughness in the 'Principled BSDF' it will remove the roughness for all, to fix this, Duplicate the 'Color Ramp' of the ones you want to make shiny - 
+  'Color Ramp' Color -> Roughness 'Principled BSDF' = Now with the changed 'Value' Slider, select which colours you want to have roughness(or not) - Basically the inverted values above 
+For shiny = Metallic + No Roughness
 
 
 
