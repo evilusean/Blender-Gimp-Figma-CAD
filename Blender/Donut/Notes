@@ -282,7 +282,11 @@ Ok, fixed the lighting, my light was stuck at 500w(500 watts) turn down for what
   trying to recreate the scene from A1L - going to need a larger plane and then a wall with the gif playing on it, then render that save to gif, then add the rest of the donuts from 4-8 to show progressSean
 'Shift + `' (tilda)(with camera selected) = Fly Mode = 'View' Dropdown -> 'Navigation' -> 'Fly Navigation' = Allows you to move with 'WASD E(up)Q(down)' controls FPV - very sensitive controls - 'Scroll Wheel' to change sensitivty
   'Fly Mode' Also works without camera, any time you want to move with 'WASD QE' just use 'Shift + `' (tilda)
-
+'Properties' -> 'Scene' -> 'Render' -> 'Render Engine' = You can change which engine you use to render
+  Tut (13:30)- Above Properties -> 'Shadows' -> 'Cube Size' = 4096px / 
+  Tut - 'Lamp' -> Properties -> 'Green Light' -> 'Shadow -> 'Bias'  = 0
+!ERROR! Changed Cube Size and Blender Froze
+EEVEE = Blenders Default Render Engine = Fast but not accurate, essentially a game engine 'Real Time'(bad for realism) Vs 'RayTrace/PathTrace/Offline Engine' = Accurate, but slow
 
 
 
