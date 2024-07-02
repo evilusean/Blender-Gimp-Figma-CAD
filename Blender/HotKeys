@@ -119,4 +119,29 @@ Close curve = Alt + C
 Tilt = Ctrl + T
 Clear Tilt = Alt + T
 
+Modeling (Edit Mode) ================================================================================================================================================================================================================
+Extrude = E
+Inset = i
+Bevel = Ctrl + B
+Bevel Vertices = Ctrl + Shift + B
+Loop cut = Ctrl + R
+Vertex/Edge Slide = G,G
+Knife = K
+Fill Face = F
+Shear = Ctrl + Shift + Alt + S
+Bend = Shift + W
+Split = Y
+Rip = V
+Rip Fill = Alt + V
+Merge = M
+Recalculate Normals = Shift + N
+Flip Normals = Ctrl + Shift + N
+Proportional Editing On/Off = O
+Proportional Falloff Type = Shift + O
+Separate selectoin to new object = P
+
+Texturing (Edit Mode) ===========================================================================================================================================================================================================
+Unwrap = U
+Mark Seam = Ctrl + E
+
 
