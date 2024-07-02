@@ -99,4 +99,24 @@ Move active object to Collection = M
 Move Active Camera to view = Ctrl + Alt + Numpad 0
 Set as Active Camera = Ctrl + Numpad 0
 
+Selection (Edit Mode) ===============================================================================================================================================================================================================
+Select Connected Mesh = Ctrl + L
+Select Connected Mesh Under Cursor = L
+Select Edge/Face Loop = Alt + LMB
+Select Edge Ring = Ctrl + Alt + RMB
+Vertex Select Mode = 1
+Edge Select Mode = 2
+Face Select Mode = 3
+Mirror current selection = Ctrl + Shift + M
+Select More/Less = Ctrl +/-
+Edge Crease = Shift + E
+
+Curve Editing (Edit mode) ===========================================================================================================================================================================================================
+Add new handle = E or Ctrl + RMB
+Change handle type = V
+Delete but maintain connection = Ctrl + X
+Close curve = Alt + C
+Tilt = Ctrl + T
+Clear Tilt = Alt + T
+
 
