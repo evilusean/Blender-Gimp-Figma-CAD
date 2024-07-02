@@ -296,9 +296,10 @@ Lighting -
 'SubSurface Scattering' = for 'Fleshy Objects' - light will show through fingers - It's not a hard object - Like Metallic = Weight is either a 0 or 1 - Couldn't find it in the tutorial, looked for a while, it's not there
   'radius' = When using this(if you can find it) it's set up for skin by default, so you need to reduce the radius(x,y,z/r,g,b) to '1' or else it will change the color of your object
   'scale' = the thickness of the object, in meters
-  -Makes the shadows look better, allows some light to pass through, makes the icing/donut look softer and more like food 
+  -Makes the shadows look better, allows some light to pass through, makes the icing/donut look softer and more like food
+https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/sss.html
 
-
+Part 9 = Layout =======================================================================================================================================================================================================================
 
 
 
