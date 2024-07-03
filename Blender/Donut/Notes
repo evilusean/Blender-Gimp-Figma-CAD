@@ -328,6 +328,7 @@ Tut - 'Shift + A' -> 'Circle' = Vertices = 100 / Radius= 0.12m
 '2' = Edge Mode
 '3' = Face Select
 4:30 = Start Building Plate = Not going to write down every minor movement that went into building the plate if I mess up, start over here~
+In edit mode + vertices selected -> 'e' to extrude then 's' to scale out and create the 'lip' of plate - extrudes out equally / equidistant for all 
 
 
 
