@@ -329,7 +329,7 @@ Tut - 'Shift + A' -> 'Circle' = Vertices = 100 / Radius= 0.12m
 '3' = Face Select
 4:30 = Start Building Plate = Not going to write down every minor movement that went into building the plate if I mess up, start over here~
 In edit mode + vertices selected -> 'e' to extrude then 's' to scale out and create the 'lip' of plate - extrudes out equally / equidistant for all 
-
+Had to restart - Instead of creating a floor for the plate when I pressed 'F' it created a bunch of rotar blades like in a jet engine, cool but now I have a bunch of faces I would have to individually remove ~ not nice
 
 
 
