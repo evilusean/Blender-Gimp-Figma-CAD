@@ -324,13 +324,14 @@ https://www.poliigon.com/model/speckled-ceramic-plate-model-white/8110
 'Cycles' is going super slow, going to go back to 'EEVEE' for working on the plate, I don't have x4 GPU's like tut guy, keep restarting, and it's taking minutes just to load in the first donuts, can switch back for rendering
 Tut - 'Shift + A' -> 'Circle' = Vertices = 100 / Radius= 0.12m
 !ERROR! - Created a Circle and it had a bunch of orbits, accidently had the 'sprinkles' group still selected, so each sprinkle was receving it's own circle and coincdentally an orbit
-'1' = Vertices Mode
-'2' = Edge Mode
-'3' = Face Select
+'1' in Edit Mode = Vertices Mode
+'2' in Edit Mode = Edge Mode
+'3' in Edit Mode = Face Select
 4:30 = Start Building Plate = Not going to write down every minor movement that went into building the plate if I mess up, start over here~
 In edit mode + vertices selected -> 'e' to extrude then 's' to scale out and create the 'lip' of plate - extrudes out equally / equidistant for all 
 Had to restart - Instead of creating a floor for the plate when I pressed 'F' it created a bunch of rotar blades like in a jet engine, cool but now I have a bunch of faces I would have to individually remove ~ not nice
-
+'Z' in Edit Mode = Will bring up a circle menu that will allow you to swap between Wireframe / Rendered / Solid / Material Preview Modes
+Fixed the Face for bottom of the plate - idk what I did differently
 
 
 
