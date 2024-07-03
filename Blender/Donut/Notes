@@ -321,6 +321,8 @@ How to create a plate (2:30):
 'Image Reference' = Top of screen inbetween the drop down menus '-' hover cursor, 'Right Click' -> 'Vertical Split' = 2 Duplicate Windows -> Change one window to 'Image Editor' -> 'Image' Dropdown -> 'Open'
 https://www.poliigon.com/model/speckled-ceramic-plate-model-white/8110
 'Cycles' is going super slow, going to go back to 'EEVEE' for working on the plate, I don't have x4 GPU's like tut guy, keep restarting, and it's taking minutes just to load in the first donuts, can switch back for rendering
-
-
-
+Tut - 'Shift + A' -> 'Circle' = Vertices = 100 / Radius= 0.12m
+!ERROR! - Created a Circle and it had a bunch of orbits, accidently had the 'sprinkles' group still selected, so each sprinkle was receving it's own circle and coincdentally an orbit
+'1' = Vertices Mode
+'2' = Edge Mode
+'3' = Face Select
