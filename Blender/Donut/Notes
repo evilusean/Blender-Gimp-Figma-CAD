@@ -339,7 +339,8 @@ Tut - 'Properties' -> 'Modifiers' -> 'Solidify' = Will change the plate from pap
 After applying modifers, 'Ctrl + Shift + Select Edges' of exterior, bring both bevels together to where they are barely touching to form a round part
 'Edit Mode' -> 'A' (selects everything) -> 'M' -> 'Merge' -> 'By Distance' = Will merge any vertices, so that artifacts will not appear as you are editing later
 Plate Completed ~
-
+Right Click -> 'Shade Smooth' = will round the bevels
+'Viewport Display' = 'Properties' (Select Camera) -> 'Data' 
 
 
 
