@@ -1,5 +1,5 @@
 Start:15June2024</br>
-End:</br>
+End:06July2024(many intermissions)</br>
 [Tutorial: </br> https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) </br>
 I will give my DoNut a girls name, because this is the only hole I am going to get.</br>
 1. This is my Donut. There are many like it, but this one is mine.</br>
@@ -10,3 +10,4 @@ I will give my DoNut a girls name, because this is the only hole I am going to g
   I will ever guard it against the ravages of weather and damage as I will ever guard my legs, my arms, my eyes and my heart against damage. I will keep my Donut clean and ready. We will become part of each other.</br>
 6. Before God, I swear this creed. My Donut and myself are the defenders of my country. We are the masters of our enemy. We are the saviors of my life.</br>
 7. So be it, until victory is America’s and there is no enemy, but peace!!</br>
+![DoNut2](https://github.com/evilusean/Blender-Gimp-Figma-CAD/assets/82889521/4ed48bb8-54bb-46cb-8a5f-5d32d43873f8)
