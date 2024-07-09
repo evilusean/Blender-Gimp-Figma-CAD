@@ -346,6 +346,8 @@ Right Click -> 'Shade Smooth' = will round the bevels
 I took a few days off to do some job searching work, sent out over 50 applicASeans, applied to ~10 schools, I've gotten 4 ish interviews, ZZZ dropped and caught up, now back to scheduled work
 I need to return blender rendering engine back to 'EEVEE' as my laptop is 5+ years old and struggling to model the lighting(goes all dark), need to fix this, so I don't spend 20 minutes just loading the .blend file each time it opens
 I don't know why my blender is running so slow, I changed the renderer settings - it is still extremely slow, unusably slow, gonna render a single low res image, and can come back to this when I get a better Mac/PC
+Ok, finally got it to render properly, the error I had was clip distance - too zoomed in on the epic donuts - Need better hardware before I can work on 3D modelling, will save up for a new Mac or suped up 2018 thinkpad with arch(btw)
+  Or build my homelab with x4 GPU's - Future goals - Step 1) Escape canada - Step 2) Money - Step 3) Build cool shit ~ I can't build anything cool as long as I am a tax cattle in capturd communist canada - they can't steal your mind
 
 !LEFTOFF! PART 9 : LAYOUT = 11:30 =JULY 09 2024 ==========================================================================================================================================================================================
 
