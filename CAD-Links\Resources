@@ -3,6 +3,10 @@ CAD Programs:
 Blender is great for 3d printing, especially when you like to do more artistic stuff. I also use it for "CAD", but there are some limitations due to it's non-standard modeling approach 
 (which on the other hand can be a joy to work with and is very mesh-based; which is a good thing for 3d-printing). Huge, expanding projects can become a mess over time and CAD-like precision sometimes is a bit quirky to maintain.
 
+CAD_Sketcher(CAD for Blender):
+https://hlorus.github.io/CAD_Sketcher/
+https://www.youtube.com/watch?v=1jNDLUDL0gc&ab_channel=KeepMaking
+
 If you're looking for functional prints, there are softwares much better for it since they work as CAD, and thus understand the constraints of a physical object, which blender does not natively. 
 I personally use Fusion360 (free, too) a lot more for 3d printing
 
