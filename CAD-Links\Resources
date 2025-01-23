@@ -38,6 +38,10 @@ SketchUp Personal - again, you can probably get something usable out of it, as I
 
 OnShape - very capable free tier of a pro application, but the free version can only be used non-commercially, and all your designs are viewable/forkable by any other user of the application.
 
+Fusion 360/SolidWorks
+
+Text(AI) to CAD : https://www.youtube.com/watch?v=WdhZiE0-Pzs
+
 Being from a software background, you may also be interested in the programmatic CAD apps like OpenSCAD or CadQuery - these work by defining your models in a declarative language and viewing the results. 
 Not something most people are after, but may fit your use case.
 
@@ -91,4 +95,3 @@ LTSPICE
 InkScape
 Eagle - Free Version
 draw.io
-Text(AI) to CAD : https://www.youtube.com/watch?v=WdhZiE0-Pzs
