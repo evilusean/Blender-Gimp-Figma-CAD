@@ -99,6 +99,13 @@ Blender GIS = Google Maps + Blender for Topographical Map:
 https://www.youtube.com/watch?v=Mj7Z1P2hUWk&ab_channel=CGGeek
 https://github.com/domlysz/BlenderGIS
 
+Materials / Learning Tolerances / Mechanical :
+QRD: https://xometry.pro/en/articles/standard-tolerances-manufacturing/
+Or
+https://prototek.com/article/a-guide-to-tolerance-and-fit-in-mechanical-design/
+
+Deeper dive: https://www.mcgill.ca/engineeringdesign/step-step-design-process/basics-graphics-communication/principles-tolerancing
+
 Electronics Circuit Schematics:=========================================================================================================================================================================================================
 In LaTeX there is a package called CircuiTikZ - Best Looking - Free
 KiCad - Free -  pro designs with KiCAD under Linux - You can make 3D renders of the final pcb with components too. And it has SPICE simulation. Gerber viewer.
@@ -108,3 +115,4 @@ InkScape
 Eagle - Free Version
 draw.io
 Flux AI assisted PCB Design : https://www.flux.ai/p
+
