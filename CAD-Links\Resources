@@ -106,6 +106,9 @@ https://prototek.com/article/a-guide-to-tolerance-and-fit-in-mechanical-design/
 
 Deeper dive: https://www.mcgill.ca/engineeringdesign/step-step-design-process/basics-graphics-communication/principles-tolerancing
 
+https://sendcutsend.com/blog/tag/tolerances/
+Here’s one specifically for circuit boards:
+https://pages.protoexpress.com/rs/727-TSC-367/images/DFM%20Handbook_January%202024.pdf?version=0
 Electronics Circuit Schematics:=========================================================================================================================================================================================================
 In LaTeX there is a package called CircuiTikZ - Best Looking - Free
 KiCad - Free -  pro designs with KiCAD under Linux - You can make 3D renders of the final pcb with components too. And it has SPICE simulation. Gerber viewer.
