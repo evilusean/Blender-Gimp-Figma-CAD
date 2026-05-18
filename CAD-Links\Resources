@@ -132,8 +132,10 @@ In LaTeX there is a package called CircuiTikZ - Best Looking - Free
 KiCad - Free -  pro designs with KiCAD under Linux - You can make 3D renders of the final pcb with components too. And it has SPICE simulation. Gerber viewer.
 SchemDraw
 LTSPICE
-InkScape
+InkScape  
 Eagle - Free Version
 draw.io
 Flux AI assisted PCB Design : https://www.flux.ai/p
 
+Arduino + Makita Drill = CNC Machine ... + Universal G-Code Sender(FOSS) + Grbl(Firmware) :
+https://www.youtube.com/watch?v=4g_Ty3n6lSg
