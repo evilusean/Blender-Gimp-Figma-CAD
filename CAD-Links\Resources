@@ -143,6 +143,7 @@ https://www.kicad.org/
 Arduino + Makita Drill = CNC Machine ... + Universal G-Code Sender(FOSS) + Grbl(Firmware) :
 https://www.youtube.com/watch?v=4g_Ty3n6lSg
 
+EE -> Industrial Systems/Control/Automation Engineer -> Localized Smarthome -> Dark Factory 
 Programmable Logic Controller (PLC) is an industrial-grade digital computer designed to control manufacturing processes, machinery, and automated systems. :
 Twincat (For PLC - Industrial Automation Systems and Control Engineer) : 
 https://www.beckhoff.com/en-en/products/automation/twincat/
@@ -150,3 +151,5 @@ Arduino PLC :
 https://www.arduino.cc/pro/software-plc-ide/
 Human-Machine Interface (HMI) development is the process of designing the graphical displays, touchscreens, and software dashboards that allow human operators to interact with industrial machinery, automated systems, and PLCs. :
 https://www.weintek.com/Software/EasyBuilder/EasyBuilderPro
+Supervisory Control and Data Acquisition (SCADA) The overarching software and hardware architecture that monitors and controls an entire plant, or facility : 
+https://inductiveautomation.com/ignition/
