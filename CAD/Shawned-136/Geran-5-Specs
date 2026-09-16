@@ -12,6 +12,13 @@ The Geran-4 Seekers night AI vision combines infrared/thermal imaging cameras wi
   and highlight potential targets, enabling the drone to independently search, identify, and lock onto targets at night even without 
   direct operator control. Hence the drones name "Seeker". It can independently using only AI algorithms seek and destroy targets.
 
+Geran-4 "Seeker" replaces simple coordinate attacks with terminal electro-optical guidance, giving it extremely high accuracy, often described as near-zero CEP,
+  against fixed and moving targets. A secure video/data link allows a human operator to visually confirm the target and designate it in real time, 
+  a concept known as "human-in-the-loop" targeting. The drone also uses AI-powered computer vision to independently search for, identify, and 
+  lock onto targets without direct operator input, enabling autonomous terminal tracking to impact. The Seekers electro-optical sensor and machine-vision
+  algorithms refine the aim point during the final dive, correcting for any drift. This allows it to hit targets with centimeter-level precision. 
+  The terminal guidance system is designed for pinpoint accuracy against high-value targets such as vessels, port infrastructure, and railway equipment.
+
 >Russia is decisively outpacing both Ukraine and the entire US-led NATO alliance in the rapid development and mass fielding of smart,
   low-cost precision weapons exposing a growing and increasingly unbridgeable distance between Moscows adaptive wartime innovation and the Wests slow,
   expensive, bureaucratic approach.
