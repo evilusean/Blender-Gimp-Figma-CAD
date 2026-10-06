@@ -24,3 +24,19 @@ Geran-4 "Seeker" replaces simple coordinate attacks with terminal electro-optica
   expensive, bureaucratic approach.
 https://www.wsj.com/world/russia-is-churning-out-smart-cheap-new-weapons-faster-than-ukraine-or-the-u-s-c817d014
 
+Russians upgraded Geran-4 (again) :
+An interesting change is the use of a new module referred to by Ukrainian intelligence as MOKH. 
+  Its key element was the PNI5GA magnetometer manufactured by the American company PNI Sensor. 
+  However, its problem is the accumulation of errors over the flight’s duration. 
+  Even small measurement deviations can, after some time, translate into a significant difference between the UAV’s actual position and the position
+  calculated by its onboard computer. A magnetometer can help mitigate this problem by providing additional information about the machine’s orientation
+  relative to the Earth’s magnetic field.
+The Russians have gone even further, as the new configuration also features the 'Susanin' system. This is an entirely different type of navigation: 
+  instead of measuring the machine’s movement or using the magnetic field, the system utilises images from an optical camera. The computer compares 
+  the currently viewed terrain with a previously saved reference image and, on this basis, can determine whether the UAV is on the correct route. 
+  The system can correct navigation based on what it actually sees, rather than relying solely on GPS or inertial system data. According to Ukrainian
+  military intelligence, a similar system has also been applied in the new Geran-5 in the K5 version.
+Alongside the other changes, the Russians have also replaced the Geran-4’s power source. The Main Intelligence Directorate (HUR) reported that the 
+  previously used Chinese Telefly turbojet engine has been replaced by a Russian equivalent, the production of which has been localised in Alabuga. 
+  Ukrainian intelligence has not yet provided the designation of the new unit, its manufacturer, or exact parameters. It is known, however,
+  that it is the same type of engine – a small turbojet unit.
